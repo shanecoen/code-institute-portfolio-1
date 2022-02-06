@@ -52,8 +52,8 @@ img {
 
 #logo {    
     color: beige;
-    font-size: 500%;    
-    padding-top: 1.5em;     
+    font-size: 250%;    
+    padding-top: 3em;     
 }
 
 #logo-container {
@@ -62,8 +62,8 @@ img {
     }
 
 #nav-style {
-    font-size: 120%;
-    letter-spacing: 4px; 
+    font-size: 80%;
+    letter-spacing: 1.5px; 
     font-weight: 600;
     line-height: 75px;
     padding: 30px;   
@@ -74,8 +74,8 @@ img {
     display: inline-block;
     list-style-type: none;
     text-align: center;
-    margin: 0 auto;
-    margin-right: 40px;
+    margin: 0;
+    padding-left:5px
 }
 
 #nav-style a {
@@ -107,34 +107,35 @@ main {
     hyphens: auto;
 }
 
-/* Media Queries */
+/* Media Queries min-width: 600px */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 600px) {
     #logo {
-        font-size: 250%;    
-        padding-top: 3em;     
+        font-size: 400%;    
+        padding-top: 1.5em;     
     }
 
     #nav-style {
-        font-size: 80%;
-        letter-spacing: 1.5px;         
+        font-size: 90%;
+        letter-spacing: 2.5px;         
     }
 
     #nav-style li {
-        margin: 0;
-        padding-left: 8px;
+        margin: 0 auto;
+        margin-right: 40px;
     }  
 }
 
-@media only screen and (max-width: 800px) {
-    #logo {
-        font-size: 300%;    
-        padding-top: 3em;     
-    }   
+/* Media Queries min-width: 800px */
 
-    #nav-style li {
-        margin: 0;
-        padding-left: 8px;
+@media only screen and (min-width: 800px) {
+    #logo {
+        font-size: 500%;    
+        padding-top: 1em;     
+    }
+
+    #nav-style {
+        font-size: 120%;
+        letter-spacing: 4px;         
     } 
 }
-
