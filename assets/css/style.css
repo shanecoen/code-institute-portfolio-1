@@ -1,3 +1,29 @@
-body {
-    background-color: red;
+/* Web Fonts */
+
+
+/* Base Styles */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
 }
+
+html {
+    font-size: 1.25rem;
+}
+
+body {    
+    font: 300 100%/1.5 'Work Sans', sans-serif;
+    color: #454959;
+    letter-spacing: 1px;  
+}
+
+h1, h2 {
+    line-height: 1.1;
+}
+
+/* Main Styles */
+
+/* Media Queries */
