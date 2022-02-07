@@ -19,20 +19,23 @@ body {
 
 h1, h2 {
     font-family: 'Work Sans', sans-serif;
-    font-weight: 400;
-    font-size: 3rem;
-    line-height: 1.1; 
-    text-transform: uppercase;
+    font-weight: 400;        
     letter-spacing: 4px;  
 }
 
 h1 {
+    font-size: 3rem;
+    line-height: 1.1;
     color: navy;
     text-shadow: 4px 4px 6px rgba(0, 0, 128, .5);
+    text-transform: uppercase;
 }
 
 h2 {
     font-size: 2.5rem;
+    text-transform: capitalize;
+    line-height: 1.5;
+    text-shadow: 1px 2px 3px rgba(0, 0, 128, .5);
 }
 
 h3 {
@@ -101,6 +104,29 @@ header, footer {
 
 main {
     hyphens: auto;
+}
+
+/* Intro Section Styles*/
+
+#intro-wrapper {
+    width: 100%;
+    height: 700px;
+    padding: 50px 0;
+    margin-bottom: 20px;
+}
+
+#intro-div-left {
+    width: 40%;
+    padding: 50px 0 50px 0;    
+    margin: 0 auto;  
+    float: left;        
+}
+
+#intro-div-right {
+    width: 60%;
+    padding: 0;
+    margin: 0 auto;    
+    float: right;
 }
 
 /* Section Styles */
