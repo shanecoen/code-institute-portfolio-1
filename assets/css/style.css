@@ -113,8 +113,7 @@ main {
 }
 
 .main-section-style {
-    width: 65%;
-    height: 650px;
+    width: 65%;    
     margin: 0 auto;
     padding: 0;
     border-bottom: 1px dashed silver;
@@ -145,6 +144,33 @@ main {
     text-align: left;
 }
 
+.discover-button-div {    
+    padding: 5px 0 40px 0;
+    clear: both;
+}
+
+.discover-button-style {
+    display: block;
+    width: 250px;
+    padding: .5rem 1rem;
+    border-radius: 20px/10px;
+    box-shadow: 1px 2px 3px rgb(0, 0, 128);
+    margin: 1rem auto;
+    background-color: beige;
+    border: 1px solid navy;
+    color: navy;
+    text-align: center;
+    font-size: 1.25rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.discover-button-style:hover {
+    background-color: navy;
+    border: 1px solid beige;
+    color: beige;  
+    box-shadow: 1px 2px 3px beige;
+}
 
 /* Media Queries min-width: 600px */
 
