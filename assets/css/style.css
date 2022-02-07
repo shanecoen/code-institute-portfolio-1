@@ -45,7 +45,7 @@ img {
 /* Header Styles*/
 
 #main-header-image {
-    background: url('../images/05.jpg') center / cover no-repeat;
+    background: url('../images/main-header-image.jpg') center / cover no-repeat;
     width: 100vw;
     height: 750px;
 }
