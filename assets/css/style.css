@@ -146,20 +146,26 @@ main {
 }
 
 .main-country-section {
-    padding: 20px;
-    margin: 0 auto;
-    margin-top: 30px;    
+    padding: 100px 0 0 0;
+    margin-bottom: 50px;
+    margin: 0 auto;       
     width: 100%;
-    text-align: center;
+    height: 1000px;
+    text-align: center;    
 }
 
-.main-section-intro-pic {
-    float: left;
-    margin: 50px 20px;
-    width: 35%;
+.main-section-intro-pic {    
+    width: 100%;
     height: auto;
-    border: 5px solid navy;
-    border-radius: 5%;
+    border-radius: 50px;
+}
+
+#main-colombia-pic {
+    width: 50%;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+    float: left;
 }
 
 #main-section-peru-pic {
@@ -168,10 +174,9 @@ main {
 
 #main-colombia-text {
     float: right;
-    width: 60%;
-    margin-top: 50px;
-    padding: 10px;
-    text-align: left;
+    width: 50%; 
+    padding: 50px 0 30px 50px;   
+    text-align: right;
 }
 
 #main-peru-text {
@@ -193,8 +198,7 @@ main {
     padding: .5rem 1rem;
     border-radius: 20px/10px;
     box-shadow: 1px 2px 3px rgb(0, 0, 128);
-    margin: 1rem auto;
-    background-color: beige;
+    margin: 1rem auto;    
     border: 1px solid navy;
     color: navy;
     text-align: center;
