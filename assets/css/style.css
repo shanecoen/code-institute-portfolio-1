@@ -53,13 +53,13 @@ img {
 #logo {    
     color: beige;
     font-size: 250%;    
-    padding-top: 3em;     
+    padding-top: 3em;        
 }
 
 #logo-container {
     width: 100%;
-    height: auto;
-    }
+    height: auto;    
+}
 
 #nav-style {
     font-size: 80%;
@@ -101,6 +101,41 @@ header, footer {
 main {
     hyphens: auto;
 }
+
+/* Section Styles */
+
+#main-wrapper {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+}
+
+.main-section-style {
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    padding: 0;
+    border-bottom: 1px dashed silver;
+}
+
+#main-section-colombia {
+    background-color: beige;
+    width: 100%;
+}
+
+.main-section-div {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.main-section-intro-pic {
+    float: left;
+    width: 30%;
+    height: auto;
+    border: 10px solid navy;
+    border-radius: 50%;
+}
+
 
 /* Media Queries min-width: 600px */
 
