@@ -27,7 +27,7 @@ h1, h2 {
 }
 
 h1 {
-    text-shadow: 2px 4px 5px rgba(0, 0, 128, .5);
+    text-shadow: 4px 4px 6px rgba(0, 0, 128, .5);
 }
 
 h2 {
@@ -45,9 +45,9 @@ img {
 /* Header Styles*/
 
 #main-header-image {
-    background: url('../images/header-image.jpg') center / cover no-repeat;
+    background: url('../images/05.jpg') center / cover no-repeat;
     width: 100vw;
-    height: 80vh;
+    height: 750px;
 }
 
 #logo {    
@@ -93,11 +93,6 @@ img {
 }
 
 /* Main Styles */
-
-header {
-   
-   background-color: aqua;
-}
 
 header, footer {
     text-align: center;
