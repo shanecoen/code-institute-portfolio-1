@@ -134,10 +134,22 @@ main {
     height: auto;
     border: 5px solid navy;
     border-radius: 5%;
-} 
+}
+
+#main-section-peru-pic {
+    float: right;
+}
 
 #main-colombia-text {
     float: right;
+    width: 60%;
+    margin-top: 50px;
+    padding: 10px;
+    text-align: left;
+}
+
+#main-peru-text {
+    float: left;
     width: 60%;
     margin-top: 50px;
     padding: 10px;
