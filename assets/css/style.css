@@ -135,7 +135,7 @@ main {
     margin: 0 auto;
     width: 100%;
     padding: 0;
-    background-color: rgb(245, 245, 220, 0.1);
+    background-color: rgb(245, 245, 220, 0.3);
 }
 
 .main-section-style {
@@ -143,6 +143,10 @@ main {
     margin: 0 auto;
     padding: 0;
     border-bottom: 1px dashed silver;
+}
+
+#no-border-bottom {
+    border-bottom: none;
 }
 
 .main-country-section {
@@ -194,10 +198,28 @@ main {
     text-align: left;
 }
 
+#main-expediation-text {
+    margin: 0;
+    float: left;
+    width: 100%; 
+    padding: 20px 0x 30px 0;
+    text-align: justify;
+}
+
+#expediation-header {
+    text-align: center;
+}
+
 .discover-button-div {    
     padding: 5px 0 40px 0;
     clear: both;
     float: left;
+}
+
+#button-expediation {
+    padding: 5px 0 40px 0;
+    clear: both;
+    text-align: center;
 }
 
 #colombia-button {
@@ -224,6 +246,33 @@ main {
     border: 1px solid beige;
     color: beige;  
     box-shadow: 1px 2px 3px beige;
+}
+
+#footer-style {
+    width: 100%;
+    height: 150px;
+    background-color: beige;
+    color: navy;
+    text-align: center;    
+}
+
+#footer-div {
+    float: left;
+    width: 50%;  
+    margin: 0;
+    padding: 50px; 
+}
+
+#social-icons-footer {
+    width: 50%;    
+    float: right;       
+    margin: 0;
+    padding: 50px;
+    font-size: 120%; 
+}
+
+.social-icons {
+    margin-right: 40px;
 }
 
 /* Media Queries min-width: 600px */
