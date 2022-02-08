@@ -54,10 +54,17 @@ a {
 
 /* Header Styles*/
 
-#main-header-image {
-    background: url('../images/main-header-image.jpg') center / cover no-repeat;
+.main-header {
     width: 100vw;
     height: 750px;
+}
+
+#main-header-image {
+    background: url('../images/main-header-image.jpg') center / cover no-repeat;    
+}
+
+#main-colombia-image {
+    background: url('../images/12.jpg') center / cover no-repeat;   
 }
 
 #logo {    
