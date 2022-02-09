@@ -164,7 +164,16 @@ main {
     min-width: 100%;
     min-height: 100%;
     z-index: -1;
-  }
+}
+
+.tourism-video {   
+    margin: 0 auto;
+    Margin-top: 3rem;
+    text-align: center;
+    width: 65%;
+    border: 10px solid black;
+    border-radius: 20px;
+}
 
 .main-section-style {
     width: 65%;    
