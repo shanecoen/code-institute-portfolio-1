@@ -153,8 +153,7 @@ main {
 
 .region-section-one {
     width: 100%;
-    height: 750px;    
-    border-bottom: 1px solid yellow;
+    height: 750px;
 }
 
 #colombia-video-background {
@@ -167,12 +166,18 @@ main {
 }
 
 .tourism-video {   
-    margin: 0 auto;
-    Margin-top: 3rem;
+    margin: 0 auto;    
     text-align: center;
     width: 65%;
+    height: 85%;
     border: 10px solid black;
     border-radius: 20px;
+    box-shadow: 0 0 20px 10px rgba(0, 0, 128, .6);
+}
+
+.background-beige {
+    padding-top: 4rem;
+    background-color: rgba(245, 245, 220, 0.5);
 }
 
 .main-section-style {
