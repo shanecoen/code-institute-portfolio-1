@@ -237,7 +237,7 @@ main {
     width: 65%;
     margin: 0 auto;    
     padding: 3rem;
-    margin-top: 3rem;
+    margin-top: 4rem;
     text-align: center;
     background-color: rgba(0, 0, 128, 0.3);
     color: beige;
@@ -246,13 +246,35 @@ main {
     line-height: 4rem;  
 }
 
-#see-more-button {
+#region-colombia-gallery {    
+    width: 65%;
+    margin: 0 auto;    
+    padding: 20px;
+    margin-top: 4rem;
+    background-color: rgba(0, 0, 128, 0.3);
+    border-radius: 20px;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+.region-photo-gallery {
+    border: 5px solid transparent;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#colombia-gallery-div {
+    height: 900px;
+}
+
+#experience-button {
     background-color: rgba(245, 245, 220, 0.8);
     border: 1px solid navy;
     color: navy;
 }
 
-#see-more-button:hover {
+#experience-button:hover {
     background-color: rgba(245, 245, 220);
 }
 
