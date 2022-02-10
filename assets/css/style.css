@@ -67,6 +67,10 @@ a {
     background: url('../images/colombia-two.jpg') center / cover no-repeat;   
 }
 
+#main-peru-image {
+    background: url('../images/peru-two.jpg') center / cover no-repeat;   
+}
+
 #logo {    
     color: beige;
     font-size: 250%;    
