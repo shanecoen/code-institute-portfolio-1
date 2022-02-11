@@ -250,6 +250,52 @@ main {
     line-height: 4rem;  
 }
 
+#peru-tour-video {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+    border: 1px solid navy;
+}
+
+#inca-trail-left {
+    width: 50%;
+    float: left;
+    padding-right: 50px;
+}
+
+#inca-trail-right {
+    width: 50%;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+#join-us-tour {
+    width: 65%;
+    height: auto;   
+    background-color: black;
+    margin-bottom: 4rem;
+}
+
+#join-us-div {
+    height: 900px;
+}
+
+#region-peru-text {    
+    width: 65%;
+    height: 85%;
+    margin: 0 auto;    
+    padding: 3rem;
+    margin-top: 1rem;
+    text-align: justify;
+    background-color: rgba(0, 0, 128, 0.4);
+    color: beige;
+    border-radius: 20px;
+    text-transform: capitalize;
+    line-height: 4rem;  
+}
+
 #region-colombia-gallery {    
     width: 65%;
     margin: 0 auto;    
@@ -275,6 +321,7 @@ main {
 
 #colombia-gallery-div {
     height: 900px;
+    margin-bottom: 4rem;
 }
 
 #experience-button {
