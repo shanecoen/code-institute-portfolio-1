@@ -426,11 +426,19 @@ main {
 /* Form Style */
 
 #contact-form-wrapper {
-    width: 65%;
-    height: 900px;
+    width: 50%;
+    height: 1500px;
     margin: 0 auto;
-    padding: 0;
-    background-color: rgba(255, 192, 203, 0.5);
+    padding: 4rem;  
+}
+
+#form-style {
+    width: 100%;
+    padding: 4rem;    
+    box-shadow: 0 0 20px 10px rgba(0, 0, 128, .5);
+    border-radius: 20px;
+    text-align: left;
+    line-height: 2;
 }
 
 /* Media Queries min-width: 600px */
