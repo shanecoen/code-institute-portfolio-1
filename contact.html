@@ -51,9 +51,8 @@
             <div id="form-style">
                 <form action="" method="post">
 
-                    <h1>Request Information</h1><br>
-                    <p> Join us for the advernture of a lifetime...<br>
-                        Or request Info on other amazing destinations!!!                   
+                    <h1>Feeling Adventurous?</h1><br>
+                    <p> Join us for the adventure of a lifetime or request Info on other amazing destinations!!!
                     </p><br>
 
                     <label for="fname">First Name:</label>
@@ -66,27 +65,45 @@
                     <input type="email" id="email" name="email_address" required><br>
 
                     <label for="phone">Contact Number:</label>
-                    <input type="tel" id="tel" name="phone_number" required><br>
+                    <input type="tel" id="tel" name="phone_number" required><br><br>
 
                     <label for="request">Request Info:</label>
                     <select name="request" id="request">
-                        <option value="bogota" selected>Bogota</option>
-                        <option value="medellin">Medellin</option>
-                        <option value="cartagena">Cartagena</option>
-                        <option value="santa marta">Santa Marta</option>
-                        <option value="lima">Lima</option>
-                        <option value="cusco">Cusco</option>
-                        <option value="arequipa">Arequipa</option>
-                    </select><br>
+                        <optgroup label="Colombia">
+                            <option value="bogota" selected>Bogota</option>
+                            <option value="medellin">Medellin</option>
+                            <option value="comuna_13">Comuna 13</option>
+                            <option value="cartagena">Cartagena</option>
+                            <option value="santa_marta">Santa Marta</option>
+                            <option value="lost_city_trek">Lost City Trek</option>
+                            <option value="san_gil">San Gil</option>
+                            <option value="salento">Salento</option>
+                        </optgroup>
+                        <optgroup label="Peru">
+                            <option value="lima">Lima</option>
+                            <option value="cusco">Cusco</option>
+                            <option value="inca_trail">Inca Trail</option>
+                            <option value="puerto_maldonado">Puerto Maldonado</option>
+                            <option value="Iquitos">Iquitos</option>
+                            <option value="lake_titicaca">Lake Titicaca</option>
+                            <option value="arequipa">Arequipa</option>
+                            <option value="colca_canyon_trek">Colca Canyon Trek</option>
+                            <option value="nazca_lines">Nazca Lines</option>
+                            <option value="huachachina">Huachachina</option>
+                        </optgroup>
+                    </select><br><br>
 
-                    <label for="adventure_type">Join Adventure:</label><br>
+                    <p for="adventure_type">Please tick below If you would like to join up with our next adventure and 
+                        we will get back in touch with you shortly!</p><br>
 
-                    <label for="macchu_picchu">Machu Picchu Trek</label>
-                    <input type="radio" id="macchu_picchu" name="adventure_type" value="machu_picchu_trek">
+                    <div id="radio-input">
+                        <label for="macchu_picchu">Machu Picchu Trek</label>
+                        <input type="radio" id="macchu_picchu" name="adventure_type" value="machu_picchu_trek"><br>
 
-                    <label for="lost_city">Lost City Trek</label>
-                    <input type="radio" id="lost_city" name="adventure_type" value="lost_city"><br><br>
 
+                        <label for="lost_city">Lost City Trek</label>
+                        <input type="radio" id="lost_city" name="adventure_type" value="lost_city"><br><br>
+                    </div>
                     <button type="submit" class="discover-button-style" id="experience-button">Submit</button>
                 </form>
             </div>
