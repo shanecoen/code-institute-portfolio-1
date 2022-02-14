@@ -430,7 +430,7 @@ main {
     height: 900px;
     margin: 0 auto;
     padding: 0;
-    background-color: rgba(255, 192, 203, 0.1);
+    background-color: rgba(255, 192, 203, 0.5);
 }
 
 /* Media Queries min-width: 600px */
