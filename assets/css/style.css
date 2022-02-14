@@ -309,18 +309,58 @@ main {
     border-radius: 20px;
     line-height: 0;
     column-count: 4;
-    column-gap: 0;
+    column-gap: 0;    
+}
+
+.image-container {
+    position: relative;
+    width: 100%;
+}
+  
+.gallery-image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+  
+.gallery-middle {
+    width: 90%;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+  
+.image-container:hover .gallery-image {
+    opacity: 0.8;
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 1;
+}
+  
+.image-container:hover .gallery-middle {
+    opacity: 1;
+}
+  
+.gallery-text {   
+    background-color: beige;
+    color: navy;
+    font-size: 16px;
+    padding: 1rem;
+    border-radius: 10px;
 }
 
 .region-photo-gallery {
     border: 5px solid transparent;
     border-radius: 10px;
     width: 100%;
-}
-
-.region-photo-gallery:hover {
-    transform: scale(1.5);
-    cursor: pointer;
 }
 
 #colombia-gallery-div {
