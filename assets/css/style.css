@@ -427,7 +427,7 @@ main {
 
 #contact-form-wrapper {
     width: 50%;
-    height: 1650px;
+    height: auto;
     margin: 0 auto;
     padding: 4rem;  
 }
