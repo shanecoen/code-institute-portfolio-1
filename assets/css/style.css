@@ -311,14 +311,12 @@ main {
 }
 
 #region-colombia-gallery {    
-    width: 65%;
+    width: 100%;
     margin: 0 auto;    
     padding: 20px;
-    margin-top: 4rem;
-    background-color: rgba(0, 0, 128, 0.3);
-    border-radius: 20px;
+    background-color: rgba(0, 0, 128, 0.3);    
     line-height: 0;
-    column-count: 4;
+    column-count: 2;
     column-gap: 0;    
 }
 
@@ -374,8 +372,8 @@ main {
 }
 
 #colombia-gallery-div {
-    height: 900px;
-    margin-bottom: 4rem;
+    height: auto;
+    margin: 2rem 0;
 }
 
 #experience-button {
@@ -587,6 +585,12 @@ form label {
         padding: 3rem;           
         line-height: 4rem;         
     }
+
+    #region-colombia-gallery {    
+        width: 90%;      
+        border-radius: 20px;
+        column-count: 4;    
+    }
 }
 
 /* Media Queries min-width: 900px */
@@ -614,6 +618,15 @@ form label {
         width: 80%;      
         margin: 4rem auto;       
     }
+
+    #region-colombia-gallery {    
+        width: 80%;
+        margin-top: 4rem;   
+    }
+
+    #colombia-gallery-div {
+        margin: 4rem 0;
+    }
 }
 
 /* Media Queries min-width: 1300px */
@@ -633,5 +646,9 @@ form label {
 
     #region-colombia-text {    
         width: 65%;      
+    }
+
+    #region-colombia-gallery {    
+        width: 65%; 
     }
 }
