@@ -195,8 +195,8 @@ main {
 
 
 .background-beige {
-    padding-top: 4rem;
-    background-color: rgba(245, 245, 220, 0.5);
+    padding: 2rem 0;
+    background-color: rgba(245, 245, 220, 0.3);
 }
 
 .main-section-style {
@@ -273,16 +273,12 @@ main {
 }
 
 #inca-trail-left {
-    width: 50%;
+    width: 100%;
     float: left;
-    padding-right: 50px;
 }
 
 #inca-trail-right {
-    width: 50%;
-    float: right;
-    margin: 0;
-    padding: 0;
+    width: 100%;
 }
 
 #join-us-tour {
@@ -292,22 +288,17 @@ main {
     margin-bottom: 4rem;
 }
 
-#join-us-div {
-    height: 900px;
-}
-
 #region-peru-text {    
-    width: 65%;
-    height: 85%;
-    margin: 0 auto;    
-    padding: 3rem;
-    margin-top: 1rem;
-    text-align: justify;
+    width: 100%;
+    height: auto;
+    display: flow-root;
+    margin: 0 auto;
+    padding: 2rem 0.75rem;
+    text-align: center;
     background-color: rgba(0, 0, 128, 0.4);
-    color: beige;
-    border-radius: 20px;
+    color: beige;    
     text-transform: capitalize;
-    line-height: 4rem;  
+    line-height: 3rem; 
 }
 
 #region-colombia-gallery {    
@@ -591,6 +582,13 @@ form label {
         border-radius: 20px;
         column-count: 4;    
     }
+
+    #region-peru-text {    
+        width: 90%;
+        height: auto;        
+        border-radius: 20px;
+        padding: 2rem; 
+    }    
 }
 
 /* Media Queries min-width: 900px */
@@ -610,6 +608,7 @@ form label {
 /* Media Queries min-width: 1100px */ 
 
 @media only screen and (min-width: 1100px) {
+    
     #contact-form-wrapper {
         width: 75%;       
     }
@@ -626,6 +625,27 @@ form label {
 
     #colombia-gallery-div {
         margin: 4rem 0;
+    }
+
+    #region-peru-text {    
+        width: 80%;
+        height: auto;
+        text-align: left;
+    } 
+
+    #inca-trail-left {
+        width: 50%;
+        float: left;
+        padding-right: 50px;
+    }
+
+    #inca-trail-right {
+        width: 50%;
+        float: right;
+    }
+
+    .background-beige {
+        padding: 4rem 0;
     }
 }
 
@@ -650,5 +670,10 @@ form label {
 
     #region-colombia-gallery {    
         width: 65%; 
+    }
+
+    #region-peru-text {    
+        width: 65%;
+        height: auto; 
     }
 }
