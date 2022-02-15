@@ -87,7 +87,7 @@ a {
 }
 
 #nav-style {
-    font-size: 50%;
+    font-size: 45%;
     letter-spacing: 1.5px; 
     font-weight: 600;
     line-height: 75px;
@@ -131,9 +131,9 @@ main {
 
 #intro-wrapper {
     width: 100%;
-    height: 700px;
+    height: 750px;
     padding: 50px 0;
-    margin-bottom: 20px;
+    margin-bottom: 20px;    
 }
 
 #intro-div-left {
@@ -161,7 +161,7 @@ main {
 
 .region-section-one {
     width: 100%;
-    height: 750px;
+    height: auto;
 }
 
 #main-video-background {
@@ -189,7 +189,8 @@ main {
 }
 
 .main-section-style {
-    width: 65%;    
+    width: 65%;  
+    height: auto;  
     margin: 0 auto;
     padding: 0;
     border-bottom: 1px dashed silver;
@@ -242,16 +243,15 @@ main {
 }
 
 #region-colombia-text {    
-    width: 65%;
+    width: 100%;
     margin: 0 auto;    
-    padding: 3rem;
-    margin-top: 4rem;
+    padding: 0.75rem;
+    margin: 2rem 0;
     text-align: center;
     background-color: rgba(0, 0, 128, 0.3);
     color: beige;
-    border-radius: 20px;
     text-transform: capitalize;
-    line-height: 4rem;  
+    line-height: 3rem;  
 }
 
 #peru-tour-video {
@@ -519,9 +519,10 @@ form label {
 
 /* Media Queries min-width: 480px */
 
-@media only screen and (min-width: 480px) {
-
-
+@media only screen and (min-width: 400px) {
+    #nav-style {
+        font-size: 50%;                
+    }
 }
 
 /* Media Queries min-width: 600px */
@@ -548,12 +549,13 @@ form label {
 
     form label {
         margin-right: 0;
-    }
+    }    
 }
 
 /* Media Queries min-width: 800px */
 
 @media only screen and (min-width: 800px) {
+
     #logo {
         font-size: 350%;    
         padding-top: 0.75em;     
@@ -566,6 +568,14 @@ form label {
     
     #form-style {        
         padding: 4rem; 
+    }
+
+    #region-colombia-text {    
+        width: 90%;        
+        border-radius: 20px;           
+        padding: 3rem;
+        margin-top: 2rem;        
+        line-height: 4rem;         
     }
 }
 
@@ -589,6 +599,11 @@ form label {
     #contact-form-wrapper {
         width: 75%;       
     }
+
+    #region-colombia-text {    
+        width: 80%;      
+        margin-top: 4rem;       
+    }
 }
 
 /* Media Queries min-width: 1300px */
@@ -596,7 +611,7 @@ form label {
 @media only screen and (min-width: 1300px) {
     #contact-form-wrapper {
         width: 60%;       
-    }
+    }    
 }
 
 /* Media Queries min-width: 1600px */ 
@@ -604,5 +619,9 @@ form label {
 @media only screen and (min-width: 1600px) {
     #contact-form-wrapper {
         width: 50%;       
+    }
+
+    #region-colombia-text {    
+        width: 65%;      
     }
 }
