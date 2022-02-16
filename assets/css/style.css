@@ -253,6 +253,10 @@ main {
     text-align: center;
 }
 
+#main-colombia-text h1 {
+    text-align: center;
+}
+
 #region-colombia-text {    
     width: 100%;       
     padding: 0.75rem;
@@ -690,17 +694,38 @@ form label {
     #main-colombia-text {
         float: left;
         width: 50%;    
+        text-align: left;        
+    }
+
+    #main-colombia-text h1 {
         text-align: left;
+    }
+
+    #main-colombia-text a {
+        margin-left: 0;
     }
 
     #main-colombia-pic {
         width: 50%;
         float: right;
+        padding-left: 1rem;
     }
 
     .main-section-intro-pic {    
         border-radius: 0 50px 50px 0;
      }
+
+     #colombia-button {
+        padding-bottom: 0;
+    }
+}
+
+/* Media Queries min-width: 1400px */
+
+@media only screen and (min-width: 1400px) {
+    #main-colombia-pic {
+        padding-left: 0;
+    }
 }
 
 /* Media Queries min-width: 1600px */ 
