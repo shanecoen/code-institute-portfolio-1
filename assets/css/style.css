@@ -215,8 +215,7 @@ main {
 }
 
 .main-country-section {
-    padding: 100px 0 0 0;
-    margin-bottom: 50px;
+    padding: 4rem 0.75rem;
     margin: 0 auto;       
     width: 100%;
     height: auto;
@@ -227,15 +226,14 @@ main {
 .main-section-intro-pic {    
     width: 100%;
     height: auto;
-    border-radius: 50px 0 0 50px;
     box-shadow: 0 0 20px 10px rgba(0, 0, 128, .5);
 }
 
 #main-colombia-pic {
-    width: 50%;    
+    width: 100%;    
     margin: 0;
     padding: 0;
-    float: left;
+    float: right;
 }
 
 #main-peru-pic {
@@ -250,10 +248,9 @@ main {
 }
 
 #main-colombia-text {
-    float: right;
-    width: 50%; 
-    padding: 20px 0 30px 50px;   
-    text-align: right;
+    float: left;
+    width: 100%;    
+    text-align: center;
 }
 
 #region-colombia-text {    
@@ -412,7 +409,7 @@ main {
 }
 
 #colombia-button {
-    float: right;
+    padding-bottom: 4rem;
 }
 
 .discover-button-style {
@@ -599,6 +596,19 @@ form label {
         padding: 2rem 2rem 4rem 2rem;
         text-align: justify; 
     }
+
+    .main-country-section {
+        padding: 4rem 2rem;       
+        width: 90%;         
+    }
+
+    #main-colombia-text {   
+        text-align: justify;
+    }
+
+    .main-section-intro-pic {    
+       border-radius: 50px;
+    }
 }
 
 /* Media Queries min-width: 900px */
@@ -657,14 +667,16 @@ form label {
 
     .background-beige {
         padding: 4rem 0;
-    }   
-
-    
+    }     
 
     #intro-wrapper {
         width: 80%;        
         padding: 2rem 2rem 4rem 2rem;  
     }
+
+    .main-country-section {               
+        width: 80%;          
+    }  
 }
 
 /* Media Queries min-width: 1300px */
@@ -673,7 +685,22 @@ form label {
     #contact-form-wrapper {
         width: 60%;
         padding: 3rem;     
-    }    
+    } 
+    
+    #main-colombia-text {
+        float: left;
+        width: 50%;    
+        text-align: left;
+    }
+
+    #main-colombia-pic {
+        width: 50%;
+        float: right;
+    }
+
+    .main-section-intro-pic {    
+        border-radius: 0 50px 50px 0;
+     }
 }
 
 /* Media Queries min-width: 1600px */ 
@@ -700,6 +727,11 @@ form label {
     #intro-wrapper {
         width: 65%;        
         padding: 4rem;  
+    }
+
+    .main-country-section {
+        padding: 4rem;             
+        width: 65%;           
     }
 
 }
