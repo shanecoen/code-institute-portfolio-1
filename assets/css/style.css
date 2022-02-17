@@ -444,6 +444,8 @@ main {
     box-shadow: 1px 2px 3px beige;
 }
 
+/* Footer Style */
+
 #footer-style {
     width: 100%;
     min-height: 10rem;  
@@ -476,6 +478,10 @@ footer a {
 .social-icons {
     color: navy;
     margin-right: 1rem;
+}
+
+.social-icons:hover {
+    transform: scale(1.2);
 }
 
 /* Form Style */
