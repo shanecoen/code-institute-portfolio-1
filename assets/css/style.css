@@ -9,7 +9,7 @@
 
 html {
     font-size: 1.25rem;
-    overflow-x:hidden;
+    overflow-x: hidden;
 }
 
 body {    
@@ -76,10 +76,18 @@ a {
     background: url('../images/contact-header.jpg') center / cover no-repeat;   
 }
 
+.smaller-screen-h1 {
+    font-size: 2.5rem;
+}
+
+.smaller-screen-h2 {
+    font-size: 1.75rem;
+}
+
 #logo {    
     color: beige;
     font-size: 150%;    
-    padding-top: 4em;        
+    padding-top: 7em;        
 }
 
 #logo-container {
@@ -133,17 +141,17 @@ main {
 #intro-wrapper {
     width: 100%;
     height: auto;
-    padding: 0.75rem 0.75rem 4rem;
+    padding: 4rem 0.75rem;
     margin-bottom: 0 auto;
     display: flow-root; 
-    text-align: center;  
+    text-align: justify;  
 }
 
 #intro-div-left {
     width: 100%;
     padding: 0;
     margin: 0 auto;  
-    float: left;        
+    float: left;      
 }
 
 #intro-div-right {
@@ -249,7 +257,7 @@ main {
 #main-colombia-text {
     float: left;
     width: 100%;    
-    text-align: center;
+    text-align: justify;
 }
 
 #main-colombia-text h1 {
@@ -306,6 +314,10 @@ main {
     color: beige;    
     text-transform: capitalize;
     line-height: 3rem; 
+}
+
+#region-peru-text p {
+    text-align: justify;
 }
 
 #region-colombia-gallery {    
@@ -388,7 +400,7 @@ main {
     margin: 0;
     float: right;
     width: 100%;
-    text-align: center;
+    text-align: justify;
 }
 
 #main-expediation-text {
@@ -537,9 +549,10 @@ form label {
     background-color: transparent;
 }
 
-/* Media Queries min-width: 480px */
+/* Media Queries min-width: 400px */
 
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 400px) { 
+    
     #nav-style {
         font-size: 50%;                
     }
@@ -548,9 +561,10 @@ form label {
 /* Media Queries min-width: 600px */
 
 @media only screen and (min-width: 600px) {
+    
     #logo {
         font-size: 275%;    
-        padding-top: 1.5em; 
+        padding-top: 3em; 
     }
 
     #nav-style {
@@ -569,17 +583,24 @@ form label {
 
     form label {
         margin-right: 0;
-    } 
-    
+    }    
 }
 
 /* Media Queries min-width: 800px */
 
 @media only screen and (min-width: 800px) {
 
+    .smaller-screen-h1 {
+        font-size: 3rem;
+    }
+
+    .smaller-screen-h2 {
+        font-size: 2.5rem;
+    }    
+    
     #logo {
         font-size: 350%;    
-        padding-top: 1em; 
+        padding-top: 2em; 
     }
 
     #nav-style {
@@ -659,7 +680,6 @@ form label {
     #footer-style {
         min-height: 8rem;           
     }
-
 }
 
 /* Media Queries min-width: 900px */
