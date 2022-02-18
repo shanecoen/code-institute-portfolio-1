@@ -204,9 +204,9 @@ main {
     height: 100%;
   }
 
-.background-beige {
+.background-navy {
     padding: 2rem 0;
-    background-color: rgba(245, 245, 220, 0.5);
+    background-color: rgba(0, 0, 128, 0.4)
 }
 
 .main-section-style {
@@ -310,7 +310,6 @@ main {
     margin: 0 auto;
     padding: 2rem 0.75rem;
     text-align: center;
-    background-color: rgba(0, 0, 128, 0.4);
     color: beige;    
     text-transform: capitalize;
     line-height: 3rem; 
@@ -318,6 +317,10 @@ main {
 
 #region-peru-text p {
     text-align: justify;
+}
+
+#region-peru-text h1 {
+    color: beige;
 }
 
 #region-colombia-gallery {    
@@ -630,6 +633,7 @@ form label {
         width: 90%;
         height: auto;        
         border-radius: 20px;
+        border: 1px solid rgba(245, 245, 220, 0.5);
         padding: 2rem; 
     }
     
@@ -736,7 +740,7 @@ form label {
         float: right;
     }
 
-    .background-beige {
+    .background-navy {
         padding: 4rem 0;
     }     
 
