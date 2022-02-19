@@ -121,6 +121,10 @@ a {
 
 /* Main Styles */
 
+#body-background-color {
+    background-color: rgba(0, 0, 128, 0.8);
+}
+
 header, footer {
     text-align: center;
 }
@@ -177,7 +181,7 @@ main {
 }
 
 #main-video-background {
-    visibility: hidden;
+    /*visibility: hidden;*/
     position: fixed;
     right: 0;
     bottom: 0;
@@ -208,7 +212,7 @@ main {
 
 .background-navy {
     padding: 2rem 0;
-    background-color: rgba(0, 0, 128, 0.4)
+    background-color: navy;
 }
 
 .main-section-style {
@@ -311,6 +315,7 @@ main {
     display: flow-root;
     margin: 0 auto;
     padding: 2rem 0.75rem;
+    background-color: navy;
     text-align: center;
     color: beige;    
     text-transform: capitalize;
@@ -329,7 +334,7 @@ main {
     width: 100%;
     margin: 0 auto;    
     padding: 20px;
-    background-color: rgba(0, 0, 128, 0.3);    
+    background-color: navy;    
     line-height: 0;
     column-count: 2;
     column-gap: 0;    
@@ -629,16 +634,18 @@ form label {
         padding: 4rem; 
     }
 
-    #region-colombia-text {    
+    #region-colombia-text {
         width: 90%; 
-        margin: 2rem auto;       
+        margin: 2rem auto; 
+        background-color: rgba(0, 0, 128, 0.7);      
         border-radius: 20px;           
         padding: 3rem;           
         line-height: 4rem;         
     }
 
     #region-colombia-gallery {    
-        width: 90%;      
+        width: 90%; 
+        background-color: rgba(0, 0, 128, 0.7);     
         border-radius: 20px;
         column-count: 4;    
     }
@@ -647,9 +654,13 @@ form label {
         width: 90%;
         height: auto;        
         border-radius: 20px;
-        border: 1px solid rgba(245, 245, 220, 0.2);
+        background-color: rgba(0, 0, 128, 0.7);        
         box-shadow: 0 0 20px 10px rgba(0, 0, 128, .6);
         padding: 2rem; 
+    }
+
+    .background-navy {
+        background-color: rgba(0, 0, 128, 0.4);
     }
     
     #intro-wrapper {
