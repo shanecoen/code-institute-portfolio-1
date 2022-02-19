@@ -79,7 +79,7 @@ a {
 #logo {    
     color: beige;
     font-size: 150%;    
-    padding-top: 7em;        
+    padding-top: 10rem;        
 }
 
 #logo-container {
@@ -133,7 +133,7 @@ main {
 }
 
 .smaller-screen-h2 {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
 }
 
 /* Intro Section Styles*/
@@ -566,8 +566,7 @@ form label {
 @media only screen and (min-width: 600px) {
     
     #logo {
-        font-size: 275%;    
-        padding-top: 3em; 
+        font-size: 275%;
     }
 
     #nav-style {
@@ -598,12 +597,11 @@ form label {
     }
 
     .smaller-screen-h2 {
-        font-size: 2.5rem;
+        font-size: 2.25rem;
     }    
     
     #logo {
-        font-size: 350%;    
-        padding-top: 2em; 
+        font-size: 350%;
     }
 
     #nav-style {
