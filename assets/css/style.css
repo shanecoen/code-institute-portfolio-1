@@ -392,14 +392,14 @@ main {
     margin: 2rem 0;
 }
 
-#experience-button-1, #experience-button-2  {
-    background-color: rgba(245, 245, 220, 0.8);
+#discover-button-1, #discover-button-2  {
+    background-color: beige;
     border: 1px solid navy;
     color: navy;
 }
 
-#experience-button-1:hover, #experience-button-2:hover {
-    background-color: rgba(245, 245, 220);
+#discover-button-1:hover, #discover-button-2:hover {
+    transform: scale(1.1);
 }
 
 #main-peru-text {
