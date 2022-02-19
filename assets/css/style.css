@@ -191,15 +191,16 @@ main {
 }
 
 .tourism-video {   
-    margin: 0 auto;  
+    margin: 0 auto; 
     text-align: center;
     width: 100%;
     height: auto;
-    border: 10px solid black;    
+    border: 10px solid navy;    
     box-shadow: 0 0 20px 10px rgba(0, 0, 128, .6);
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
+    overflow-x: hidden;
 }
 
 .tourism-video iframe {
@@ -643,6 +644,12 @@ form label {
         line-height: 4rem;         
     }
 
+    .tourism-video {
+        width: 90%;
+        border-radius: 20px;
+        border: 20px solid rgba(0, 0, 128, 0.7);
+    }
+
     #region-colombia-gallery {    
         width: 90%; 
         background-color: rgba(0, 0, 128, 0.7);     
@@ -738,6 +745,10 @@ form label {
     #region-colombia-text {    
         width: 80%;      
         margin: 4rem auto;       
+    }
+
+    .tourism-video {
+        width: 80%;
     }
 
     #region-colombia-gallery {    
@@ -855,6 +866,10 @@ form label {
 
     #region-colombia-text {    
         width: 65%;      
+    }
+
+    .tourism-video {
+        width: 65%;
     }
 
     #region-colombia-gallery {    
