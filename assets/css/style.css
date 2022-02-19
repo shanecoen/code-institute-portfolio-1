@@ -79,7 +79,8 @@ a {
 #logo {    
     color: beige;
     font-size: 150%;    
-    padding-top: 10rem;        
+    padding-top: 10rem;
+    text-shadow: 5px 5px 6px rgba(0, 0, 128, .8);       
 }
 
 #logo-container {
