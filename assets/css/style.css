@@ -79,8 +79,8 @@ a {
 #logo {    
     color: beige;
     font-size: 150%;    
-    padding-top: 10rem;
-    text-shadow: 5px 5px 6px rgba(0, 0, 128, .8);       
+    padding-top: 16rem;
+    text-shadow: 5px 5px 6px rgb(0, 0, 128);       
 }
 
 #logo-container {
@@ -177,6 +177,7 @@ main {
 }
 
 #main-video-background {
+    visibility: hidden;
     position: fixed;
     right: 0;
     bottom: 0;
@@ -274,7 +275,7 @@ main {
     padding: 0.75rem;
     margin: 2rem 0;
     text-align: center;
-    background-color: rgba(0, 0, 128, 0.3);
+    background-color: navy;
     color: beige;
     text-transform: capitalize;
     line-height: 3rem;  
@@ -502,6 +503,15 @@ footer a {
 
 /* Form Style */
 
+#contact-image-background {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+} 
+
 #contact-form-wrapper {
     width: 100%;
     height: auto;
@@ -565,6 +575,10 @@ form label {
 /* Media Queries min-width: 600px */
 
 @media only screen and (min-width: 600px) {
+
+    #main-video-background {
+        visibility: visible;
+    }
     
     #logo {
         font-size: 275%;
@@ -603,6 +617,7 @@ form label {
     
     #logo {
         font-size: 350%;
+        padding-top: 12rem;
     }
 
     #nav-style {
