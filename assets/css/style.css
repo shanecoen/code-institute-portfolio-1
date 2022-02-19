@@ -121,10 +121,6 @@ a {
 
 /* Main Styles */
 
-#body-background-color {
-    background-color: rgba(0, 0, 128, 0.8);
-}
-
 header, footer {
     text-align: center;
 }
@@ -181,7 +177,6 @@ main {
 }
 
 #main-video-background {
-    /*visibility: hidden;*/
     position: fixed;
     right: 0;
     bottom: 0;
@@ -337,7 +332,7 @@ main {
     padding: 20px;
     background-color: navy;    
     line-height: 0;
-    column-count: 2;
+    column-count: 1;
     column-gap: 0;    
 }
 
@@ -581,10 +576,6 @@ form label {
 /* Media Queries min-width: 600px */
 
 @media only screen and (min-width: 600px) {
-
-    #main-video-background {
-        visibility: visible;
-    }
     
     #logo {
         font-size: 275%;
@@ -598,7 +589,11 @@ form label {
     #nav-style li {
         margin: 0 auto;
         margin-right: 30px;
-    } 
+    }
+
+    #region-colombia-gallery {    
+        column-count: 2;    
+    }
     
     #form-style input, #form-style select {
         float: right;
@@ -653,8 +648,7 @@ form label {
     #region-colombia-gallery {    
         width: 90%; 
         background-color: rgba(0, 0, 128, 0.7);     
-        border-radius: 20px;
-        column-count: 4;    
+        border-radius: 20px;  
     }
 
     #region-peru-text {    
@@ -730,6 +724,14 @@ form label {
     #form-style {            
         box-shadow: 0 0 20px 10px rgba(0, 0, 128, .5);        
         border-radius: 20px;    
+    }
+}
+
+/* Media Queries min-width: 1000px */
+
+@media only screen and (min-width: 1000px) {
+    #region-colombia-gallery {
+        column-count: 4;
     }
 }
 
