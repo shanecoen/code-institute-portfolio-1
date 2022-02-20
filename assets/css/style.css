@@ -559,7 +559,7 @@ form label {
     height: 30px;
     box-shadow: none;
     text-align: center;
-    margin-right: 45%;
+    margin-left: 0.05rem;
     margin-top: 1rem;
     background-color: transparent;
 }
@@ -570,6 +570,10 @@ form label {
     
     #nav-style {
         font-size: 50%;                
+    }
+
+    #radio-input input {
+        margin-left: 1rem;        
     }
 }
 
@@ -601,7 +605,11 @@ form label {
 
     form label {
         margin-right: 0;
-    }    
+    } 
+    
+    #radio-input input {
+        margin-right: 45%;        
+    }
 }
 
 /* Media Queries min-width: 800px */
