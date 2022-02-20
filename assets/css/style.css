@@ -25,7 +25,15 @@ h1, h2 {
     letter-spacing: 4px;  
 }
 
-h1 {
+.text-center {
+    text-align: center;
+}
+
+.colour-beige {
+    color: beige;
+}
+
+h2 {   
     font-size: 3rem;
     line-height: 1.1;
     color: navy;
@@ -33,15 +41,12 @@ h1 {
     text-transform: uppercase;
 }
 
-h2 {
+h3 {
     font-size: 2.5rem;
     text-transform: capitalize;
     line-height: 1.5;
+    font-weight: 300;
     text-shadow: 1px 2px 3px rgba(0, 0, 128, .5);
-}
-
-h3 {
-    font-size: 1.25rem;
 }
 
 img {
@@ -80,7 +85,9 @@ a {
     color: beige;
     font-size: 150%;    
     margin-top: 11rem;
+    line-height: 1.1;
     text-shadow: 5px 5px 6px rgb(0, 0, 128);       
+    text-transform: uppercase;      
 }
 
 #logo-container {
@@ -129,11 +136,11 @@ main {
     hyphens: auto;
 }
 
-.smaller-screen-h1 {
+.smaller-screen-h2 {
     font-size: 2.5rem;
 }
 
-.smaller-screen-h2 {
+.smaller-screen-h3 {
     font-size: 1.5rem;
 }
 
@@ -230,6 +237,14 @@ main {
     height: auto;
     text-align: center; 
     display: flow-root;   
+}
+
+.text-left-div {
+    text-align: center;
+}
+
+.text-right-div {
+    text-align: center;
 }
 
 .main-section-intro-pic {    
@@ -616,11 +631,11 @@ form label {
 
 @media only screen and (min-width: 800px) {
 
-    .smaller-screen-h1 {
+    .smaller-screen-h2 {
         font-size: 3rem;
     }
 
-    .smaller-screen-h2 {
+    .smaller-screen-h3 {
         font-size: 2.25rem;
     }    
     
@@ -862,6 +877,14 @@ form label {
 
     #peru-button {
         padding-bottom: 0;
+    }
+
+    .text-left-div {
+        text-align: left;
+    }
+    
+    .text-right-div {
+        text-align: right;
     }
 }
 
