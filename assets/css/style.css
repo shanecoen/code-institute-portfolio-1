@@ -492,6 +492,7 @@ main {
     font-size: 1.25rem;
     text-decoration: none;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 .main-button-style:hover {
