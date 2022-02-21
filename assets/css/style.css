@@ -25,18 +25,6 @@ h1, h2 {
     letter-spacing: 4px;  
 }
 
-.hide {
-    display: none;
-}
-
-.text-center {
-    text-align: center;
-}
-
-.colour-beige {
-    color: beige;
-}
-
 h2 {   
     font-size: 3rem;
     line-height: 1.1;
@@ -130,14 +118,33 @@ a {
     border-bottom: 1px solid navy;
 }
 
+header, footer {
+    text-align: center;
+}
+
 /* Main Styles */
+
+#main-wrapper {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+    background-color: rgba(245, 245, 220, 0.5);
+}
+
+.hide {
+    display: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.colour-beige {
+    color: beige;
+}
 
 #country-background-color {
     background-color: beige;
-}
-
-header, footer {
-    text-align: center;
 }
 
 main {
@@ -178,13 +185,6 @@ main {
 }
 
 /* Section Styles */
-
-#main-wrapper {
-    margin: 0 auto;
-    width: 100%;
-    padding: 0;
-    background-color: rgba(245, 245, 220, 0.5);
-}
 
 .region-section-one {
     width: 100%;
@@ -294,7 +294,7 @@ main {
     text-align: center;
 }
 
-#region-colombia-text {    
+#region-introduction-text {    
     width: 100%;       
     padding: 0.75rem;
     margin: 2rem 0;
@@ -305,7 +305,7 @@ main {
     line-height: 3rem;  
 }
 
-#peru-tour-video {
+#trek-media {
     width: 100%;
     margin: 0;
     padding: 0;
@@ -313,12 +313,12 @@ main {
     box-shadow: 0 0 20px 10px rgba(0, 0, 128, .5);
 }
 
-#inca-trail-left {
+#trek-div-left {
     width: 100%;
     float: left;
 }
 
-#inca-trail-right {
+#trek-div-right {
     width: 100%;
 }
 
@@ -329,7 +329,7 @@ main {
     margin-bottom: 4rem;
 }
 
-#region-peru-text {    
+#region-trek-text {    
     width: 100%;
     height: auto;
     display: flow-root;
@@ -342,15 +342,15 @@ main {
     line-height: 3rem; 
 }
 
-#region-peru-text p {
+#region-trek-text p {
     text-align: justify;
 }
 
-#region-peru-text h1 {
+#region-trek-text h1 {
     color: beige;
 }
 
-#region-colombia-gallery {    
+#region-image-gallery {    
     width: 100%;
     margin: 0 auto;    
     padding: 20px;
@@ -411,18 +411,18 @@ main {
     width: 100%;
 }
 
-#colombia-gallery-div {
+#region-gallery-style {
     height: auto;
     margin: 2rem 0;
 }
 
-#discover-button-1, #discover-button-2  {
+#main-button-1, #main-button-2  {
     background-color: beige;
     border: 1px solid navy;
     color: navy;
 }
 
-#discover-button-1:hover, #discover-button-2:hover {
+#main-button-1:hover, #main-button-2:hover {
     transform: scale(1.1);
 }
 
@@ -445,7 +445,7 @@ main {
     text-align: center;
 }
 
-.discover-button-div {    
+.main-button-div {    
     padding: 5px 0 40px 0;
     margin: 0 auto;
 }
@@ -464,7 +464,7 @@ main {
     padding-bottom: 4rem;
 }
 
-.discover-button-style {
+.main-button-style {
     display: block;
     width: 250px;
     padding: .5rem 1rem;
@@ -479,7 +479,7 @@ main {
     text-transform: uppercase;
 }
 
-.discover-button-style:hover {
+.main-button-style:hover {
     background-color: navy;
     border: 1px solid beige;
     color: beige;  
@@ -501,7 +501,7 @@ footer a {
     color: navy;
 }
 
-#footer-div {
+#footer-logo {
     float: left;
     width: 100%;  
     margin: 0 auto;
@@ -621,7 +621,7 @@ form label {
         margin-right: 30px;
     }
 
-    #region-colombia-gallery {    
+    #region-image-gallery {    
         column-count: 2;    
     }
     
@@ -667,7 +667,7 @@ form label {
         padding: 4rem; 
     }
 
-    #region-colombia-text {
+    #region-introduction-text {
         width: 90%; 
         margin: 2rem auto; 
         background-color: rgba(0, 0, 128, 0.7);      
@@ -682,13 +682,13 @@ form label {
         border: 20px solid rgba(0, 0, 128, 0.7);
     }
 
-    #region-colombia-gallery {    
+    #region-image-gallery {    
         width: 90%; 
         background-color: rgba(0, 0, 128, 0.7);     
         border-radius: 20px;  
     }
 
-    #region-peru-text {    
+    #region-trek-text {    
         width: 90%;
         height: auto;        
         border-radius: 20px;
@@ -729,7 +729,7 @@ form label {
         border-radius: 50px;
      }
 
-    #footer-div {        
+    #footer-logo {        
         width: 50%;  
         margin: 0;
         padding: 2.5rem;
@@ -771,7 +771,7 @@ form label {
 /* Media Queries min-width: 1000px */
 
 @media only screen and (min-width: 1000px) {
-    #region-colombia-gallery {
+    #region-image-gallery {
         column-count: 4;
     }
 }
@@ -785,7 +785,7 @@ form label {
         padding: 2rem;      
     }
 
-    #region-colombia-text {    
+    #region-introduction-text {    
         width: 80%;      
         margin: 4rem auto;       
     }
@@ -794,28 +794,28 @@ form label {
         width: 80%;
     }
 
-    #region-colombia-gallery {    
+    #region-image-gallery {    
         width: 80%;
         margin-top: 4rem;   
     }
 
-    #colombia-gallery-div {
+    #region-gallery-style {
         margin: 4rem 0;
     }
 
-    #region-peru-text {    
+    #region-trek-text {    
         width: 80%;
         height: auto;
         text-align: left;
     } 
 
-    #inca-trail-left {
+    #trek-div-left {
         width: 50%;
         float: left;
         padding-right: 50px;
     }
 
-    #inca-trail-right {
+    #trek-div-right {
         width: 50%;
         float: right;
     }
@@ -915,7 +915,7 @@ form label {
         padding: 4rem;      
     }
 
-    #region-colombia-text {    
+    #region-introduction-text {    
         width: 65%;      
     }
 
@@ -923,11 +923,11 @@ form label {
         width: 65%;
     }
 
-    #region-colombia-gallery {    
+    #region-image-gallery {    
         width: 65%; 
     }
 
-    #region-peru-text {    
+    #region-trek-text {    
         width: 65%;
         height: auto; 
     }
