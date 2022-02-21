@@ -364,6 +364,10 @@ main {
     position: relative;
     width: 100%;
 }
+
+.hide-image {
+    display: none;
+}
   
 .gallery-image {
     opacity: 1;
@@ -624,6 +628,10 @@ form label {
 
     #region-image-gallery {    
         column-count: 2;    
+    }
+
+    .hide-image {
+        display: block;
     }
     
     #form-style input, #form-style select {
