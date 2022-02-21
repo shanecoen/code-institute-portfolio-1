@@ -76,7 +76,7 @@ a {
 #logo {    
     color: beige;
     font-size: 150%;    
-    margin-top: 11rem;
+    margin-top: 12rem;
     line-height: 1.1;
     text-shadow: 5px 5px 6px rgb(0, 0, 128);       
     text-transform: uppercase;      
@@ -609,6 +609,7 @@ form label {
 
     #logo {
         font-size: 275%;
+        margin-top: 11rem;
     }
 
     #nav-style {
