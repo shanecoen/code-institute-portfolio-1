@@ -78,7 +78,7 @@ a {
 }
 
 #main-peru-image {
-    background: url('../images/peru-two.jpg') center / cover no-repeat;   
+    background: url('../images/peru-fifteen.jpg') center / cover no-repeat;   
 }
 
 #main-contact-image {
@@ -131,6 +131,10 @@ a {
 }
 
 /* Main Styles */
+
+#country-background-color {
+    background-color: beige;
+}
 
 header, footer {
     text-align: center;
@@ -188,6 +192,7 @@ main {
 }
 
 #main-video-background {
+    visibility: hidden;
     position: fixed;
     right: 0;
     bottom: 0;
@@ -599,7 +604,7 @@ form label {
 /* Media Queries min-width: 600px */
 
 @media only screen and (min-width: 600px) {
-    
+
     #logo {
         font-size: 275%;
     }
@@ -634,6 +639,10 @@ form label {
 /* Media Queries min-width: 800px */
 
 @media only screen and (min-width: 800px) {
+
+    #main-video-background {
+        visibility: visible;
+    }
 
     .smaller-screen-h2 {
         font-size: 3rem;
