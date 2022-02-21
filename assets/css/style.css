@@ -494,7 +494,7 @@ main {
     background-color: beige;
     color: navy;
     text-align: center;  
-    border-top: 1px solid navy;  
+    border-top: 1px solid rgba(0, 0, 128, 0.5);  
 }
 
 footer a {
