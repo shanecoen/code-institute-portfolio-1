@@ -529,6 +529,7 @@ footer a {
 /* Form Style */
 
 #contact-image-background {
+    visibility: hidden;
     position: fixed;
     right: 0;
     bottom: 0;
@@ -541,6 +542,7 @@ footer a {
     width: 100%;
     height: auto;
     margin: 0 auto;
+    border-bottom: 1px solid navy;
 }
 
 #form-style {
@@ -753,12 +755,17 @@ form label {
 @media only screen and (min-width: 900px) {
     #contact-form-wrapper {
         width: 90%;       
-        padding: 1rem; 
+        padding: 1rem;
+        border-bottom: none;
     }
 
     #form-style {            
         box-shadow: 0 0 20px 10px rgba(0, 0, 128, .5);        
         border-radius: 20px;    
+    }
+
+    #contact-image-background {
+        visibility: visible;
     }
 }
 
