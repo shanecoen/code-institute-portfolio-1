@@ -183,10 +183,10 @@ main {
 }
 
 #intro-div-right {
-    width: 100%;
+    width: 75%;
     padding: 0;
-    margin: 0 auto;    
-    float: right;
+    margin: 0 auto;
+    clear: both;
 }
 
 /* Section Styles */
@@ -194,6 +194,10 @@ main {
 .region-section-one {
     width: 100%;
     height: auto;
+}
+
+.box-shadow-navy {
+    box-shadow: 0 0 10px 10px rgba(0, 0, 128, 0.5);
 }
 
 #main-video-background {
@@ -305,6 +309,7 @@ main {
     margin: 2rem 0;
     text-align: center;
     background-color: navy;
+    box-shadow: 0 0 10px 10px rgba(0, 0, 128, 0.5);
     color: beige;
     text-transform: capitalize;
     line-height: 3rem;  
@@ -359,7 +364,8 @@ main {
     width: 100%;
     margin: 0 auto;    
     padding: 20px;
-    background-color: navy;    
+    background-color: navy;
+    box-shadow: 0 0 10px 10px rgba(0, 0, 128, 0.5);    
     line-height: 0;
     column-count: 1;
     column-gap: 0;    
@@ -693,7 +699,8 @@ form label {
         width: 90%; 
         margin: 2rem auto; 
         background-color: rgba(0, 0, 128, 0.7);      
-        border-radius: 20px;           
+        border-radius: 20px;
+        box-shadow: none;          
         padding: 3rem;           
         line-height: 4rem;         
     }
@@ -707,7 +714,8 @@ form label {
     #region-image-gallery {    
         width: 90%; 
         background-color: rgba(0, 0, 128, 0.7);     
-        border-radius: 20px;  
+        border-radius: 20px; 
+        box-shadow: none; 
     }
 
     #region-trek-text {    
@@ -717,6 +725,10 @@ form label {
         background-color: rgba(0, 0, 128, 0.7);        
         box-shadow: 0 0 20px 10px rgba(0, 0, 128, .6);
         padding: 2rem; 
+    }
+
+    .box-shadow-navy {
+        box-shadow: none;
     }
 
     .background-navy {
