@@ -1,4 +1,4 @@
-#Shaco Adventures
+# Shaco Adventures
 
 Shaco Adventures are a world leader in South American adventure travel. 
 Colombia and Peru are among their specialist destinations where they undertake 
@@ -22,3 +22,14 @@ in up-coming treks and also seek information on other amazing destinations,
 where users can get even more information,
 * The website is responsive and can be easily accessed and viewed on any device i.e. 
 mobile, tablet or desktop.
+
+## The Website
+<hr>
+<br>
+
+![Image of website in various screen sizes](assets/images/readme-shaco-responsive.png)
+
+<br>
+This website is hosted by GitHub pages and can be viewed at 
+https://shanecoen.github.io/code-institute-portfolio-1/index.html
+
