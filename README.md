@@ -127,8 +127,8 @@ travel locations in both countries. These videos are invaluable as they allow th
 Adventures to organise their own travel arrangements. There is also a video included in the Peru Inca Trail Trek section which shows more adventures that await the user.
 All of these videos are controlled by the user via the controls provided (start, stop etc) and sound is optional. There are background videos included also in both of 
 these pages which allows the user to admire the location in the background while navigating through the page. The background videos are hidden in smaller screen sizes to
-allow for ease of use and to speed up loading times. In the image below: the embedded video can be seen on the left and the Inca Trail video is on the right. The background
-videos can be seen playing behind both of these videos.
+allow for ease of use and to speed up loading times. All videos are responsivelly designed. In the image below: the embedded video can be seen on the left and the Inca 
+Trail video is on the right. The background videos can be seen playing behind both of these videos.
 
 <br>
 
@@ -148,6 +148,22 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 <br>
 
 ![Image of Call To Action Button from website](assets/images/readme-gallery.jpg)
+
+<br>
+
+#### The Contact Form:
+
+<br>
+
+This can be found on the contact.html page and there are also quick links located to this on colombia.html and peru.html. This form is used to allow the user to contact 
+Shaco Adventures if and when they require any information on a number of locations in Colombia or Peru. It also allows them to notify the company of their interest
+in an upcoming Inca Trail or Lost City trek. The user sends on their information via input fields in this form and any info they require on specific locations can be chosen
+via the select and radio button options. Below a number of images can be seen showing the contact form on various 
+screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
+
+<br>
+
+![Image of Call To Action Button from website](assets/images/readme-contact-form.jpg)
 
 <br>
 
