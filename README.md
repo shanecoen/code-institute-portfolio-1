@@ -243,6 +243,39 @@ Note: Safari was not available to me during this browser compatability testing.
 
 <br>
 
+### Additional Testing - Lightouse:
+
+<br>
+
+While testing this website, good use was made of Chrome Dev Tools. One feature that was used extensivelly was "Lighthouse". This is a tool thats is used to identify and fix common problems that can affect the sites performace, accessibility and user experience. It can generate a report (on both mobile and desktop devices) and give a score out of 100 on website perfromace (site loading performace), Accessibility, Best practices (does it conform to industry best practices) and SEO (is the site optimised for search engine result rankings). This was a very useful tool that helped to identify and resolve any bugs present from an early stage. The below image shows some of this websites current lighthouse scores with the left image showing colombia.html on a mobile device and peru.html on a desktop screen.
+
+<br>
+
+![Image of HTML Validation result](assets/images/readme-lighthouse.jpg)
+
+<br>
+
+### Known Bugs:
+
+<br>
+
+* Resolved Bugs
+
+<br>
+
+1. To be completed
+2. To be completed
+
+<br>
+
+* Unresolved Bugs
+
+<br>
+
+1. Due to the limitations of the content taught in this section of the Code Institute course my form on contact.html does not work correctly once the submit button is clicked (i.e. the data does not push anywhere). This is an issue that would be resolved once I progress further into the course.
+
+<br>
+
 ## Deployment
 <hr>
 <br>
