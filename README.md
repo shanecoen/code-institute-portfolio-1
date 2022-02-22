@@ -55,6 +55,10 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 
 <br>
 
+## UX Design
+<hr>
+<br>
+
 ## Features
 <hr>
 <br>
@@ -207,7 +211,18 @@ for all website users.
 <hr>
 <br>
 
-Testing
+### Code Validation:
+
+<br>
+
+* The code from this website has been validated using https://validator.w3.org/ to ensure that it complies with the standards set by the W3 Consortium.
+* All four pages have been tested and all have come back 100% clear of errors and warnings.
+* The CSS code has been validated using https://jigsaw.w3.org/css-validator/#validate_by_uri to ensure that its complies with all relevant standards and it has come back 100% clear of all errors and warnings.
+* The Images below show the HTML validation results (top) and CSS validation results (bottom).
+
+<br>
+
+![Image of HTML Validation result](assets/images/readme-html-validation.jpg)
 
 <br>
 
