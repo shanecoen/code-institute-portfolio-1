@@ -248,8 +248,21 @@ be seen in the image below.
 
 <br>
 
-* All photos used in this website (including background images) are owned by the developer (Shane Coen). They were all compressed using the website https://www.tinypng.com in order to make their size more suitable for this website.
-* 
+* All photos used in this website (including background images) are owned by myself, the developer (Shane Coen). They were all compressed using the website https://www.tinypng.com in order to make their size more suitable for this website.
+* The video used in peru.html for the "Inca Trail" section is owned by the developer as are both background videos used in colombia.html and peru.html. All three of these videos were compressed using the website https://www.mp4compress.com/ and the website https://www.zamzar.com/convert/mp4-to-ogg/ was used to convert them to .ogg format. Two formats of these videos were uploaded in order to allow them to work on different browsers i.e. .mp4 and .ogg.
+* The two embedded videos used in the website are from a youtube source, they are are follows;<br>
+colombia.html - https://www.youtube.com/watch?v=xzy4umDtA88 <br>
+peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
+
+<br>
+
+### Website Content:
+
+* All text content used in this website is owned by the developer.
+* Font Awesome provided the Icons used in the header logo text and footer section in all four pages. They also provided the social media icons that are used in the footer sections. https://fontawesome.com/
+* The fonts used were provided by Google Fonts. https://fonts.google.com/
+* The wireframes used for design purposes were designed using Balsamiq. https://balsamiq.com/
+* When designing my image gallery I required a text ovelay to appear on hover. I took inspiration for this from https://www.w3schools.com/howto/howto_css_image_overlay.asp but edited it to suit my own requirements.
 
 <br>
 
