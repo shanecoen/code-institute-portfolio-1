@@ -167,5 +167,34 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 
 <br>
 
-### Future Features
+### Future Features:
+
+<br>
+
+* In the future I wish to expand on the information provided in the individual country sections (colombia.html and peru.html). I would like to provide much more information
+and images for each individual location in these countries i.e. in peru locations such as Cusco, Arequipa, Huachachina and Lake Titicaca. At present there are photos of some of these locations and an external link for more info but I would like to provide all of this via the Shaco Adventures website.
+
+* I would like to add additional Trek options and information such as for The Colca Canyon and Amazon Jungle Treks. Giving these trek options would entice more people to do 
+business with Shaco Adventures.
+
+* I would like to expand into other countries in South America also such as Argentina, Brazil, Bolivia and Chile.
+
+* I would like to incorporate a shop section into the website where customers could purchase supplies for their upcoming trips and treks.
+
+* I would like to introduce a blog section where tips would be given for futre trekkers about how to prepare for treks, what they need etc. This blog would be an essential guide
+for all website users.
+
+<br>
+
+## Technologies Used
+<hr>
+<br>
+
+* HTML5
+* CSS3
+* Balsamiq
+* Github
+* Gitpod
+
+<br>
 
