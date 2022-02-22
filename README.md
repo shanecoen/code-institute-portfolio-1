@@ -216,13 +216,30 @@ for all website users.
 <br>
 
 * The code from this website has been validated using https://validator.w3.org/ to ensure that it complies with the standards set by the W3 Consortium.
-* All four pages have been tested and all have come back 100% clear of errors and warnings.
+* All four pages (index.html, colombia.html, peru.html and contact.html) have been tested and all have come back 100% clear of errors and warnings.
 * The CSS code has been validated using https://jigsaw.w3.org/css-validator/#validate_by_uri to ensure that its complies with all relevant standards and it has come back 100% clear of all errors and warnings.
 * The Images below show the HTML validation results (top) and CSS validation results (bottom).
 
 <br>
 
 ![Image of HTML Validation result](assets/images/readme-html-validation.jpg)
+
+<br>
+
+### Website Responsiveness:
+
+<br>
+
+This website has been tested at every single stage to ensure that is responded correctly to every device type and size i.e. desktop, tablet and mobile. Some of the device types used for testing included; lenovo IdeaPad 100 Laptop, Samsung Galaxy 7 inch tablet, Amazon Fire 6 inch tablet, Apple iPad 9.7 inch and a number of mobile phone brands such as Apple iPhone, Samsung and Huawei. Google Chrome DevTools and Firefox's responsive design mode were used etensivelly in these tests. Media queries were used in this websites design where required to ensure that every aspect responded as desired with regard to image rendering, layout, positioning etc. All responsiveness testing passed successfully.
+
+<br>
+
+### Browser Compatability:
+
+<br>
+
+This website was tested extensivelly using a number of different browsers (i.e. Google Chrome, Mozilla Firefox and Microsoft Edge) throughout its development. This was done to ensure that every aspect of the websites design, appearance, functionality and responsivness was compatible with these browsers.
+Note: Safari was not available to me during this browser compatability testing.
 
 <br>
 
