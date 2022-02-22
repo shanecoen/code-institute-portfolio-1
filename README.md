@@ -30,7 +30,7 @@ mobile, tablet or desktop.
 ![Image of website in various screen sizes](assets/images/readme-shaco-responsive.png)
 
 <br>
-This website is hosted by GitHub pages and can be viewed at 
+This website is hosted by GitHub pages and can be viewed at: <br>
 https://shanecoen.github.io/code-institute-portfolio-1/index.html
 
 <br>
@@ -47,6 +47,11 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 * jjjj
 * jjjj
 * jjjj
+3. Technologies Used
+4. Testing
+5. Deployment
+6. Credits
+7. Acknowledgements
 
 <br>
 
@@ -195,6 +200,64 @@ for all website users.
 * Balsamiq
 * Github
 * Gitpod
+
+<br>
+
+## Testing
+<hr>
+<br>
+
+Testing
+
+<br>
+
+## Deployment
+<hr>
+<br>
+
+This website was deployed using GitHub pages and it can be viewed at:<br> 
+https://shanecoen.github.io/code-institute-portfolio-1/index.html
+
+In order to deploy this website a number of steps had to be undertaken;
+
+1. Naviagte to https://www.github.com
+2. Login into your Github account with your username and password
+3. Navigate to the "your repositories" section
+4. Select the project to be deployed
+5. Select "settings" from the options along the top menu
+6. Once in settings a new menu wil appear on the left had side. Select the "pages" option. 
+You will now be in the Github pages section where you can deploy your project. This page can
+be seen in the image below.
+
+<br>
+
+![Image of Github pages section](assets/images/readme-github-one.jpg)
+
+<br>
+
+7. In order to now deploy your website select either "master" or "main" in the "Source: Branch" option and click "save".
+8. Github will then refesh the page and give details of the newly deployed project.
+
+<br>
+
+## Credits
+<hr>
+<br>
+
+### Media Used:
+
+<br>
+
+* All photos used in this website (including background images) are owned by the developer (Shane Coen). They were all compressed using the website https://www.tinypng.com in order to make their size more suitable for this website.
+* 
+
+<br>
+
+## Acknowledgements
+<hr>
+<br>
+
+Acknowledgements
 
 <br>
 
