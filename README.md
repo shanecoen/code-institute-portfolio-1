@@ -24,7 +24,7 @@ where users can get even more information,
 mobile, tablet or desktop.
 
 ## The Website
-<hr>
+
 <br>
 
 ![Image of website in various screen sizes](assets/images/readme-shaco-responsive.png)
@@ -39,49 +39,51 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 
 <br>
 
-1. The Design Process
-    * 1.1 - Responsively Designed
-    * 1.2 - Semantic HTML
-    * 1.3 - UX Design
-    * 1.4 - Wireframes
-    * 1.5 - Site Structure
-    * 1.6 - Design Choices
+* [**The Design Process**](<#the-design-process>)
+    * [Responsively Designed](<#responsively-designed>)
+    * [Semantic HTML](<#semantic-html>)
+    * [UX Design](<#ux-design>)
+    * [Wireframes](<#wireframes>)
+    * [Site Structure](<#site-structure>)
+    * [Design Choices](<#design-choices>)
         * Typography
         * Colour Scheme
-2. Features
-    * 2.1 - Existing Features
-        * 2.1.1 - Common To All Pages
+* [**Features**](<#features>)
+    * [Existing Features](<#existing-features>)
+        * [Common To All Pages](<#common-to-all-pages>)
             * Navigation Bar
             * The Landing Page Image
             * Footer
-        * 2.1.2 - Video And Image Galleries
-        * 2.1.3 - The Contact Form
-    * 2.2 - Future Features
-3. Technologies Used
-4. Testing
-    * 4.1 - Code Validation
-    * 4.2 - Website Responsiveness
-    * 4.3 - Browser Compatability
-    * 4.4 - Additional Testing - Lighthouse
-    * 4.5 - Known Bugs
+        * [Video And Images](<#video-and-images>)
+            * Videos
+            * Image Galleries
+        * [The Contact Form](<#the-contact-form>)
+    * [Future Features](<#future-features>)
+* [**Technologies Used**](<#technologies-used>)
+* [**Testing**](<#testing>)
+    * [Code Validation](<#code-validation>)
+    * [Website Responsiveness](<#website-responsiveness>)
+    * [Browser Compatability](<#browser-compatability>)
+    * [Additional Testing - Lighthouse](<#additional-testing---lightouse>)
+    * [Known Bugs](<#known-bugs>)
         * Resolved Bugs
         * Unresolved Bugs
-5. Deployment
-    * 5.1 - GitHub Pages
-    * 5.2 - To Fork The Repository On GitHub
-    * 5.3 - Creating A Clone Of Website Files From GitHub
-6. Credits
-    * 6.1 - Media Used
-    * 6.2 - Website Content
-7. Acknowledgements
+* [**Deployment**](<#deployment>)
+    * [GitHub Pages](<#github-pages>)
+    * [To Fork A Repository On GitHub](<#to-fork-a-repository-on-github>)
+    * [Creating A Local Clone Of Website Files From GitHub](<#creating-a-local-clone-of-website-files-from-github>)
+* [**Credits**](<#credits>)
+    * [Media Used](<#media-used>)
+    * [Website Content](<#website-content>)
+* [**Acknowledgements**](<#acknowledgements>)
 
 <br>
 
-## 1. The Design Process
+## **The Design Process**
 
 <br>
 
-### 1.1 - Responsively Designed:
+### Responsively Designed:
 
 <br>
 
@@ -89,7 +91,7 @@ This website has been designed Mobile First as priority and hugh importance has 
 
 <br>
 
-### 1.2 - Semantic HTML:
+### Semantic HTML:
 
 <br>
 
@@ -97,7 +99,7 @@ Wherever possible Semantic HTML5 elements were used in order to have the HTML co
 
 <br>
 
-### 1.3 - UX Design:
+### UX Design:
 
 <br>
 
@@ -105,7 +107,7 @@ It was designed using the 5 principles of UX Design (strategy, scope, structure,
 
 <br>
 
-### 1.4 - Wireframes:
+### Wireframes:
 
 <br>
 
@@ -115,7 +117,7 @@ Wireframes were an integral part of the design process for this website. They we
 
 <br>
 
-### 1.5 - Site Structure:
+### Site Structure:
 
 <br>
 
@@ -123,7 +125,7 @@ Shaco Adventures consists of four seperate pages i.e. Home page, Colombia, Peru 
 
 <br>
 
-### 1.6 - Design Choices:
+### Design Choices:
 
 <br>
 
@@ -141,7 +143,7 @@ The colour scheme chosen for the website consists of navy (#000080), beige (#f5f
 
 <br>
 
-## 2 - Features
+## **Features**
 
 <br>
 
@@ -151,11 +153,11 @@ easily and all interactive features such as the gallery and contact form are ver
 
 <br>
 
-### 2.1 - Existing Features:
+### Existing Features:
 
 <br>
 
-#### 2.1.1 Common To All Pages:
+#### Common To All Pages:
 
 <br>
 
@@ -207,7 +209,7 @@ They are bright in colour and when hovered over they change background and font 
 
 <br>
 
-#### 2.1.2 - Video and Image Galleries:
+#### Video And Images:
 
 <br>
 
@@ -242,7 +244,7 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 
 <br>
 
-#### 2.1.3 - The Contact Form:
+#### The Contact Form:
 
 <br>
 
@@ -258,7 +260,7 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 
 <br>
 
-### 2.2 Future Features:
+### Future Features:
 
 <br>
 
@@ -277,8 +279,8 @@ for all website users.
 
 <br>
 
-## 3 - Technologies Used
-<hr>
+## **Technologies Used**
+
 <br>
 
 * HTML5
@@ -289,11 +291,11 @@ for all website users.
 
 <br>
 
-## 4 - Testing
-<hr>
+## **Testing**
+
 <br>
 
-### 4.1 - Code Validation:
+### Code Validation:
 
 <br>
 
@@ -308,7 +310,7 @@ for all website users.
 
 <br>
 
-### 4.2 - Website Responsiveness:
+### Website Responsiveness:
 
 <br>
 
@@ -316,7 +318,7 @@ This website has been tested at every single stage to ensure that is responded c
 
 <br>
 
-### 4.3 - Browser Compatability:
+### Browser Compatability:
 
 <br>
 
@@ -325,7 +327,7 @@ Note: Safari was not available to me during this browser compatability testing.
 
 <br>
 
-### 4.4 - Additional Testing - Lightouse:
+### Additional Testing - Lightouse:
 
 <br>
 
@@ -337,7 +339,7 @@ While testing this website, good use was made of Chrome Dev Tools. One feature t
 
 <br>
 
-### 4.5 - Known Bugs:
+### Known Bugs:
 
 <br>
 
@@ -358,11 +360,11 @@ While testing this website, good use was made of Chrome Dev Tools. One feature t
 
 <br>
 
-## 5 - Deployment
+## **Deployment**
 
 <br>
 
-### 5.1 - GitHub Pages:
+### GitHub Pages:
 
 <br>
 
@@ -391,7 +393,7 @@ be seen in the image below.
 
 <br>
 
-### 5.2 - To Fork The Repository On GitHub:
+### To Fork A Repository On GitHub:
 
 <br>
 
@@ -405,7 +407,7 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 
 <br>
 
-### 5.3 - Creating A Local Clone of Website Files From GitHub:
+### Creating A Local Clone of Website Files From GitHub:
 
 <br>
 
@@ -420,11 +422,11 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 
 <br>
 
-## 6 - Credits
+## **Credits**
 
 <br>
 
-### 6.1 - Media Used:
+### Media Used:
 
 <br>
 
@@ -436,7 +438,7 @@ peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
 
 <br>
 
-### 6.2 - Website Content:
+### Website Content:
 
 * All text content used in this website is owned by the developer.
 * Font Awesome provided the Icons used in the header logo text and footer section in all four pages. They also provided the social media icons that are used in the footer sections. https://fontawesome.com/
@@ -446,8 +448,8 @@ peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
 
 <br>
 
-## 7 - Acknowledgements
-<hr>
+## **Acknowledgements**
+
 <br>
 
 This website was completed as part of Code Institute's Diploma in Full Stack Software Development program and was completed in February 2022. I wish to thank my mentor Precious Ijege for all the time and effort given to me during the time spent on this project. I also wish to acknowledge the slack community and all those at Code Institute for all their help and support.
