@@ -27,17 +27,16 @@ mobile, tablet or desktop.
 
 <br>
 
-![Image of website in various screen sizes](assets/images/readme-shaco-responsive.png)
+![Image of website in various screen sizes](assets/images/readme-responsive.png)
 
 <br>
+
 This website is hosted by GitHub pages and can be viewed at: <br>
 https://shanecoen.github.io/code-institute-portfolio-1/index.html
 
 <br>
 
-## Contents 
-
-<br>
+## Contents
 
 * [**The Design Process**](<#the-design-process>)
     * [Responsively Designed](<#responsively-designed>)
@@ -81,15 +80,15 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 
 ### Responsively Designed:
 
-This website has been designed Mobile First as priority and hugh importance has been put into this area to ensure that is functions responsively on all devices be it mobile, tablet and desktop screen sizes.
+This website has been designed Mobile First as priority and huge importance has been put into this area to ensure that it functions responsively on all devices be it mobile, tablet and desktop screen sizes.
 
 ### Semantic HTML:
 
-Wherever possible Semantic HTML5 elements were used in order to have the HTML code structured corrently and to enure that the cose was accessible to all users.
+Wherever possible Semantic HTML5 elements were used in order to have the HTML code structured corrently and to enure that the code is accessible to all users.
 
 ### UX Design:
 
-It was designed using the 5 principles of UX Design (strategy, scope, structure, skeleton and surface) in order to develop a website that fully met the user's needs.
+It was designed using the 5 principles of UX Design (strategy, scope, structure, skeleton and surface) in order to develop a website that fully meets the user's needs.
 
 ### Wireframes:
 
@@ -98,6 +97,8 @@ Wireframes were an integral part of the design process for this website. They we
 <br>
 
 ![Image of Balsamiq Wireframes used in designing website](assets/images/readme-wireframe.jpg)
+
+<br>
 
 ### Site Structure:
 
@@ -113,7 +114,11 @@ The fonts chosen for this website were "Work Sans" for the headings and "Lato" f
 
 The colour scheme chosen for the website consists of navy (#000080), beige (#f5f5dc) and silver (#6c757d). These were chosen as they have a good contrast with one another and make viewing and interacting very accessible for the user.
 
+<br>
+
 [Back To Contents](<#contents>)
+
+<br>
 
 ## **Features**
 
@@ -127,7 +132,7 @@ easily and all interactive features such as the gallery and contact form are ver
 
 * Navigation Bar
 
-The Navigation Bar used in this website in used in all 4 pages and is placed centrally at the top of the header image.
+The Navigation Bar in this website in used in all 4 pages and is placed centrally at the top of the header image.
 It allows for the user to easily navigate throughout the site and it is fully responsive and responds to all screen sizes.
 The page that the user is currently on will be highlighted by a navy coloured underline. The Image below shows the Navigation bar in desktop screen size. 
 
@@ -135,25 +140,31 @@ The page that the user is currently on will be highlighted by a navy coloured un
 
 ![Image of Navigation Bar from website](assets/images/readme-navbar.jpg)
 
+<br>
+
 * The Landing Page Image
 
 Each page on this website has its own landing page image. These images are used to showcase the amazing scenery that awaits the user if they are to
-visit Colombia or Peru with Shaco Adventures. They include a lage text indicating what that individual page is about (i.e. Discover Colombia etc).
+visit Colombia or Peru with Shaco Adventures. They include a large text indicating what that individual page is about (i.e. Discover Colombia etc).
 
 <br>
 
 ![Image of Landing Pages from website](assets/images/readme-landing-page.jpg)
 
+<br>
+
 * Footer
 
-The footer design is commin to all pages. It give quick access to all Shaco Adventures social media pages i.e. Facebook, Twitter, Instagram and Youtube. 
+The footer design is common to all pages. It give quick access to all Shaco Adventures social media pages i.e. Facebook, Twitter, Instagram and Youtube. 
 These are inclued to enhance the users experience and allow them to interact with the company further. All links will open in a new tab.
-It also includes the company logo which when clicked to always bring the user back to the Home page. The below image show the footer in desktop mode and when it reponds
+It also includes the company logo which when clicked on will always bring the user back to the Home page. The below image show the footer in desktop mode and when it reponds
 to a mobile screen size the logo will appear on top of the social media icons.
 
 <br>
 
 ![Image of Footer from website](assets/images/readme-footer.jpg)
+
+<br>
 
 * Large Call To Action Buttons
 
@@ -165,9 +176,9 @@ They are bright in colour and when hovered over they change background and font 
 
 ![Image of Call To Action Button from website](assets/images/readme-button.jpg)
 
-#### Video And Images:
-
 <br>
+
+#### Video And Images:
 
 * Videos
 
@@ -183,9 +194,11 @@ Trail video is on the right. The background videos can be seen playing behind bo
 
 ![Image of Call To Action Button from website](assets/images/readme-video.jpg)
 
-* Images Galleries
+<br>
 
-There is a large image gallery included in both colombia.html and peru.html. They are locacted below the embedded video section on their respective pages.
+* Image Galleries
+
+There is a large image gallery included in both colombia.html and peru.html. They are located below the embedded video section on their respective pages.
 They are responsivelly designed i.e. images appear in just one column when in mobile screen view and four when in desktop view. A number of images are hidden
 in mobile view to allow for easier navigation. These images include a variety of amazing loctions for which the user can contact Shaco Adventures for information 
 and/ or to declare their interest in taking part in an upcoming trek. When each image is hovered over its location will appear and clicking on these will take
@@ -195,6 +208,8 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 <br>
 
 ![Image of Call To Action Button from website](assets/images/readme-gallery.jpg)
+
+<br>
 
 #### The Contact Form:
 
@@ -207,6 +222,8 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 <br>
 
 ![Image of Call To Action Button from website](assets/images/readme-contact-form.jpg)
+
+<br>
 
 ### Future Features:
 
@@ -224,17 +241,25 @@ business with Shaco Adventures.
 * Introduce a blog section where tips would be given for futre trekkers about how to prepare for treks, what they need etc. This blog would be an essential guide
 for all website users.
 
+<br>
+
 [Back To Contents](<#contents>)
+
+<br>
 
 ## **Technologies Used**
 
-* Balsamiq
+* Balsamiq 
 * HTML5
 * CSS3
 * Github
 * Gitpod
 
+<br>
+
 [Back To Contents](<#contents>)
+
+<br>
 
 ## **Testing**
 
@@ -249,6 +274,8 @@ for all website users.
 
 ![Image of HTML Validation result](assets/images/readme-html-validation.jpg)
 
+<br>
+
 ### Website Responsiveness:
 
 This website has been tested at every single stage to ensure that is responded correctly to every device type and size i.e. desktop, tablet and mobile. Some of the device types used for testing included; lenovo IdeaPad 100 Laptop, Samsung Galaxy 7 inch tablet, Amazon Fire 6 inch tablet, Apple iPad 9.7 inch and a number of mobile phone brands such as Apple iPhone, Samsung and Huawei. Google Chrome DevTools and Firefox's responsive design mode were used etensivelly in these tests. Media queries were used in this websites design where required to ensure that every aspect responded as desired with regard to image rendering, layout, positioning etc. All responsiveness testing passed successfully.
@@ -256,15 +283,17 @@ This website has been tested at every single stage to ensure that is responded c
 ### Browser Compatability:
 
 This website was tested extensivelly using a number of different browsers (i.e. Google Chrome, Mozilla Firefox and Microsoft Edge) throughout its development. This was done to ensure that every aspect of the websites design, appearance, functionality and responsivness was compatible with these browsers.
-Note: Safari was not available to me during this browser compatability testing.
+Note: Safari was not available to the developer during this browser compatability testing.
 
-### Additional Testing - Lightouse:
+### Additional Testing - Lighthouse:
 
-While testing this website, good use was made of Chrome Dev Tools. One feature that was used extensivelly was "Lighthouse". This is a tool thats is used to identify and fix common problems that can affect the sites performace, accessibility and user experience. It can generate a report (on both mobile and desktop devices) and give a score out of 100 on website perfromace (site loading performace), Accessibility, Best practices (does it conform to industry best practices) and SEO (is the site optimised for search engine result rankings). This was a very useful tool that helped to identify and resolve any bugs present from an early stage. The below image shows some of this websites current lighthouse scores with the left image showing colombia.html on a mobile device and peru.html on a desktop screen.
+While testing this website, good use was made of Chrome Dev Tools. One feature that was used extensivelly was "Lighthouse". This is a tool that is used to identify and fix common problems that can affect the sites performace, accessibility and user experience. It can generate a report (on both mobile and desktop devices) and give a score out of 100 on website perfromace (site loading performace), Accessibility, Best practices (does it conform to industry best practices) and SEO (is the site optimised for search engine result rankings). This was a very useful tool that helped to identify and resolve any bugs present from an early stage. The below image shows some of this websites current lighthouse scores with the left side showing colombia.html on a mobile device and the right side showing peru.html on a desktop screen.
 
 <br>
 
 ![Image of HTML Validation result](assets/images/readme-lighthouse.jpg)
+
+<br>
 
 ### Known Bugs:
 
@@ -276,9 +305,13 @@ also hidden in mobile views for this reason.
 
 * Unresolved Bugs
 
-1. Due to the limitations of the content taught in this section of the Code Institute course my form on contact.html does not work correctly once the submit button is clicked (i.e. the data does not push anywhere). This is an issue that would be resolved once I progress further into the course.
+1. Due to the limitations of the content taught in this section of the Code Institute course the form on contact.html does not work correctly once the submit button is clicked (i.e. the data does not push anywhere). This is an issue that would be resolved upon further progression into the course.
+
+<br>
 
 [Back To Contents](<#contents>)
+
+<br>
 
 ## **Deployment**
 
@@ -302,6 +335,8 @@ be seen in the image below.
 
 ![Image of Github pages section](assets/images/readme-github-one.jpg)
 
+<br>
+
 7. In order to now deploy your website select either "master" or "main" in the "Source: Branch" option and click "save".
 8. Github will then refesh the page and give details of the newly deployed project.
 
@@ -324,7 +359,11 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 7. Paste the URL of the code you have copied from GitHub,
 8. Press enter and your local clone will have been created.
 
+<br>
+
 [Back To Contents](<#contents>)
+
+<br>
 
 ## **Credits**
 
@@ -342,12 +381,14 @@ peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
 * Font Awesome provided the Icons used in the header logo text and footer section in all four pages. They also provided the social media icons that are used in the footer sections. https://fontawesome.com/
 * The fonts used were provided by Google Fonts. https://fonts.google.com/
 * The wireframes used for design purposes were designed using Balsamiq. https://balsamiq.com/
-* When designing the image gallery a text ovelay was required to appear on hover. Inspiration for this was taken from https://www.w3schools.com/howto/howto_css_image_overlay.asp but was edited it to suit the websites requirements.
+* When designing the image gallery a text ovelay was required to appear on hover. Inspiration for this was taken from https://www.w3schools.com/howto/howto_css_image_overlay.asp but was edited to suit the websites requirements.
 
 ## **Acknowledgements**
 
 This website was completed as part of Code Institute's Diploma in Full Stack Software Development program and was completed in February 2022. I wish to thank my mentor Precious Ijege for all the time and effort given to me during the time spent on this project. I also wish to acknowledge the slack community and all those at Code Institute for all their help and support.
 
 Shane Coen, 2022.
+
+<br>
 
 [Back To Contents](<#contents>)
