@@ -89,13 +89,15 @@ It was designed using the 5 principles of UX Design (strategy, scope, structure,
 
 Wireframes were an integral part of the design process for this website. They were used as a visual representation of the initial ideas for the architecture of the site i.e. the navigation, the organisation of all pages and features etc. It was very important to be able to visualise how this website would look and function whether it was in Mobile, Tablet or Desktop view. Balsamiq was used in the production of wireframes for this website and it helped greatly in the development process when the decison had to be made as to what features etc were to be included. Some of the wireframes used can be seen below.
 
+**Wireframe images to be added**
+
 <br>
 
 ### Site Structure:
 
 <br>
 
-Shaco Adventures consists of four seperate pages i.e. Home page, Colombia, Peru and Contact page. The home page is the default landing page and all other pages are easily navigatable from here via links on the navigation bar and large call to action buttons located futher down the page. The navigation bar and buttons are present on all four pages so navigation from one page to another is always accessible.
+Shaco Adventures consists of four seperate pages i.e. Home page, Colombia, Peru and Contact page. The home page is the default landing page and all other pages are easily accessible from here via links on the navigation bar and large call to action buttons located futher down the page. The navigation bar and buttons are present on all four pages so navigation from one page to another is always accessible.
 
 <br>
 
@@ -335,7 +337,11 @@ While testing this website, good use was made of Chrome Dev Tools. One feature t
 <br>
 
 ## Deployment
-<hr>
+
+<br>
+
+### GitHub Pages:
+
 <br>
 
 This website was deployed using GitHub pages and it can be viewed at:<br> 
@@ -363,8 +369,37 @@ be seen in the image below.
 
 <br>
 
+### To Fork The Repository On GitHub:
+
+<br>
+
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. In order to fork this repository follow the steps below;
+
+<br> 
+
+1. Log into your GitHub account and locate the repository your wish to fork.
+2. On the top right corner of the repository page locate the "Fork" option.
+3. Click this button and a copy of the original repository will now be created in your GitHub account.
+
+<br>
+
+### Creating A Local Clone of Website Files From GitHub:
+
+<br>
+
+1. Log into your GitHub account and locate the repository you wish to clone.
+2. When in the repository, click on the "code" tab.
+3. When the menu opens; select HTTPS and copy the link on right side.
+4. Naviagte to an IDE and open GIT bash.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type "git clone"
+7. Paste the URL of the code you have copied from GitHub,
+8. Press enter and your local clone will have been created.
+
+<br>
+
 ## Credits
-<hr>
+
 <br>
 
 ### Media Used:
