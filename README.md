@@ -77,39 +77,21 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
     * [Website Content](<#website-content>)
 * [**Acknowledgements**](<#acknowledgements>)
 
-<br>
-
 ## **The Design Process**
-
-<br>
 
 ### Responsively Designed:
 
-<br>
-
 This website has been designed Mobile First as priority and hugh importance has been put into this area to ensure that is functions responsively on all devices be it mobile, tablet and desktop screen sizes.
-
-<br>
 
 ### Semantic HTML:
 
-<br>
-
 Wherever possible Semantic HTML5 elements were used in order to have the HTML code structured corrently and to enure that the cose was accessible to all users.
-
-<br>
 
 ### UX Design:
 
-<br>
-
 It was designed using the 5 principles of UX Design (strategy, scope, structure, skeleton and surface) in order to develop a website that fully met the user's needs.
 
-<br>
-
 ### Wireframes:
-
-<br>
 
 Wireframes were an integral part of the design process for this website. They were used as a visual representation of the initial ideas for the architecture of the site i.e. the navigation, the organisation of all pages and features etc. It was very important to be able to visualise how this website would look and function whether it was in Mobile, Tablet or Desktop view. Balsamiq was used in the production of wireframes for this website and it helped greatly in the development process when the decison had to be made as to what features etc were to be included. Some of the wireframes used can be seen in the image below, this includes all four pages of website showing wireframe of mobile screen and desktop view side by side for each. (note: wireframe sizes are not to scale).
 
@@ -117,55 +99,31 @@ Wireframes were an integral part of the design process for this website. They we
 
 ![Image of Balsamiq Wireframes used in designing website](assets/images/readme-wireframe.jpg)
 
-<br>
-
 ### Site Structure:
-
-<br>
 
 Shaco Adventures consists of four seperate pages i.e. Home page, Colombia, Peru and Contact page. The home page is the default landing page and all other pages are easily accessible from here via links on the navigation bar and large call to action buttons located futher down the page. The navigation bar and buttons are present on all four pages so navigation from one page to another is always accessible.
 
-<br>
-
 ### Design Choices:
 
-<br>
-
 * Typography
-
-<br>
 
 The fonts chosen for this website were "Work Sans" for the headings and "Lato" for the body text. Both fonts had a fallback option of "Sans-Serif". These fonts were chosen as they work well together and are both easy to read for the user. Google Fonts was used to aquire these fonts.
 
 * Colour Scheme
 
-<br>
-
 The colour scheme chosen for the website consists of navy (#000080), beige (#f5f5dc) and silver (#6c757d). These were chosen as they have a good contrast with one another and make viewing and interacting very accessible for the user.
-
-<br>
 
 [Back To Contents](<#contents>)
 
-<br>
-
 ## **Features**
-
-<br>
 
 Shaco Adventures was responsively designed with the user in mind in that it is a very
 welcoming and easy to use website. Users will instantly be able to naigate throughtout the site
 easily and all interactive features such as the gallery and contact form are very user friendly. 
 
-<br>
-
 ### Existing Features:
 
-<br>
-
 #### Common To All Pages:
-
-<br>
 
 * Navigation Bar
 
@@ -177,8 +135,6 @@ The page that the user is currently on will be highlighted by a navy coloured un
 
 ![Image of Navigation Bar from website](assets/images/readme-navbar.jpg)
 
-<br>
-
 * The Landing Page Image
 
 Each page on this website has its own landing page image. These images are used to showcase the amazing scenery that awaits the user if they are to
@@ -187,8 +143,6 @@ visit Colombia or Peru with Shaco Adventures. They include a lage text indicatin
 <br>
 
 ![Image of Landing Pages from website](assets/images/readme-landing-page.jpg)
-
-<br>
 
 * Footer
 
@@ -201,8 +155,6 @@ to a mobile screen size the logo will appear on top of the social media icons.
 
 ![Image of Footer from website](assets/images/readme-footer.jpg)
 
-<br>
-
 * Large Call To Action Buttons
 
 These Call To Action Buttons can be found throughout this website. They are large in size and easily recognisible to the user that they are to be clicked and
@@ -212,8 +164,6 @@ They are bright in colour and when hovered over they change background and font 
 <br>
 
 ![Image of Call To Action Button from website](assets/images/readme-button.jpg)
-
-<br>
 
 #### Video And Images:
 
@@ -233,8 +183,6 @@ Trail video is on the right. The background videos can be seen playing behind bo
 
 ![Image of Call To Action Button from website](assets/images/readme-video.jpg)
 
-<br>
-
 * Images Galleries
 
 There is a large image gallery included in both colombia.html and peru.html. They are locacted below the embedded video section on their respective pages.
@@ -248,11 +196,7 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 
 ![Image of Call To Action Button from website](assets/images/readme-gallery.jpg)
 
-<br>
-
 #### The Contact Form:
-
-<br>
 
 This can be found on the contact.html page and there are also quick links located to this on colombia.html and peru.html. This form is used to allow the user to contact 
 Shaco Adventures if and when they require any information on a number of locations in Colombia or Peru. It also allows them to notify the company of their interest
@@ -264,11 +208,7 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 
 ![Image of Call To Action Button from website](assets/images/readme-contact-form.jpg)
 
-<br>
-
 ### Future Features:
-
-<br>
 
 * Expand on the information provided in the individual country sections (colombia.html and peru.html). Provide much more information
 and images for each individual location in these countries i.e. in peru locations such as Cusco, Arequipa, Huachachina and Lake Titicaca. 
@@ -284,15 +224,9 @@ business with Shaco Adventures.
 * Introduce a blog section where tips would be given for futre trekkers about how to prepare for treks, what they need etc. This blog would be an essential guide
 for all website users.
 
-<br>
-
 [Back To Contents](<#contents>)
 
-<br>
-
 ## **Technologies Used**
-
-<br>
 
 * Balsamiq
 * HTML5
@@ -300,19 +234,11 @@ for all website users.
 * Github
 * Gitpod
 
-<br>
-
 [Back To Contents](<#contents>)
-
-<br>
 
 ## **Testing**
 
-<br>
-
 ### Code Validation:
-
-<br>
 
 * The code from this website has been validated using https://validator.w3.org/ to ensure that it complies with the standards set by the W3 Consortium.
 * All four pages (index.html, colombia.html, peru.html and contact.html) have been tested and all have come back 100% clear of errors and warnings.
@@ -323,28 +249,16 @@ for all website users.
 
 ![Image of HTML Validation result](assets/images/readme-html-validation.jpg)
 
-<br>
-
 ### Website Responsiveness:
-
-<br>
 
 This website has been tested at every single stage to ensure that is responded correctly to every device type and size i.e. desktop, tablet and mobile. Some of the device types used for testing included; lenovo IdeaPad 100 Laptop, Samsung Galaxy 7 inch tablet, Amazon Fire 6 inch tablet, Apple iPad 9.7 inch and a number of mobile phone brands such as Apple iPhone, Samsung and Huawei. Google Chrome DevTools and Firefox's responsive design mode were used etensivelly in these tests. Media queries were used in this websites design where required to ensure that every aspect responded as desired with regard to image rendering, layout, positioning etc. All responsiveness testing passed successfully.
 
-<br>
-
 ### Browser Compatability:
-
-<br>
 
 This website was tested extensivelly using a number of different browsers (i.e. Google Chrome, Mozilla Firefox and Microsoft Edge) throughout its development. This was done to ensure that every aspect of the websites design, appearance, functionality and responsivness was compatible with these browsers.
 Note: Safari was not available to me during this browser compatability testing.
 
-<br>
-
 ### Additional Testing - Lightouse:
-
-<br>
 
 While testing this website, good use was made of Chrome Dev Tools. One feature that was used extensivelly was "Lighthouse". This is a tool thats is used to identify and fix common problems that can affect the sites performace, accessibility and user experience. It can generate a report (on both mobile and desktop devices) and give a score out of 100 on website perfromace (site loading performace), Accessibility, Best practices (does it conform to industry best practices) and SEO (is the site optimised for search engine result rankings). This was a very useful tool that helped to identify and resolve any bugs present from an early stage. The below image shows some of this websites current lighthouse scores with the left image showing colombia.html on a mobile device and peru.html on a desktop screen.
 
@@ -352,41 +266,23 @@ While testing this website, good use was made of Chrome Dev Tools. One feature t
 
 ![Image of HTML Validation result](assets/images/readme-lighthouse.jpg)
 
-<br>
-
 ### Known Bugs:
 
-<br>
-
 * Resolved Bugs
-
-<br>
 
 1. When testing the various website pages with the Lighthouse feature on Google Chrome Devtools it was found the video and image files included were slowing the
 website down considerably on loading. As a result all videos and images were compressed and this resulted in much faster loading times. Background videos were
 also hidden in mobile views for this reason.
 
-<br>
-
 * Unresolved Bugs
-
-<br>
 
 1. Due to the limitations of the content taught in this section of the Code Institute course my form on contact.html does not work correctly once the submit button is clicked (i.e. the data does not push anywhere). This is an issue that would be resolved once I progress further into the course.
 
-<br>
-
 [Back To Contents](<#contents>)
-
-<br>
 
 ## **Deployment**
 
-<br>
-
 ### GitHub Pages:
-
-<br>
 
 This website was deployed using GitHub pages and it can be viewed at:<br> 
 https://shanecoen.github.io/code-institute-portfolio-1/index.html
@@ -406,30 +302,18 @@ be seen in the image below.
 
 ![Image of Github pages section](assets/images/readme-github-one.jpg)
 
-<br>
-
 7. In order to now deploy your website select either "master" or "main" in the "Source: Branch" option and click "save".
 8. Github will then refesh the page and give details of the newly deployed project.
 
-<br>
-
 ### To Fork A Repository On GitHub:
 
-<br>
-
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. In order to fork this repository follow the steps below;
-
-<br> 
 
 1. Log into your GitHub account and locate the repository your wish to fork.
 2. On the top right corner of the repository page locate the "Fork" option.
 3. Click this button and a copy of the original repository will now be created in your GitHub account.
 
-<br>
-
 ### Creating A Local Clone of Website Files From GitHub:
-
-<br>
 
 1. Log into your GitHub account and locate the repository you wish to clone.
 2. When in the repository, click on the "code" tab.
@@ -440,27 +324,17 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 7. Paste the URL of the code you have copied from GitHub,
 8. Press enter and your local clone will have been created.
 
-<br>
-
 [Back To Contents](<#contents>)
-
-<br>
 
 ## **Credits**
 
-<br>
-
 ### Media Used:
-
-<br>
 
 * All images used in this website (including background images) are owned by the developer (Shane Coen). They were all compressed using the website https://www.tinypng.com in order to make their size more suitable for this website.
 * The video used in peru.html for the "Inca Trail" section is owned by the developer as are both background videos used in colombia.html and peru.html. All three of these videos were compressed using the website https://www.mp4compress.com/ and the website https://www.zamzar.com/convert/mp4-to-ogg/ was used to convert them to .ogg format. Two formats of these videos were uploaded in order to allow them to work on different browsers i.e. .mp4 and .ogg.
 * The two embedded videos used in the website are from a youtube source, they are are follows;<br>
 colombia.html - https://www.youtube.com/watch?v=xzy4umDtA88 <br>
 peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
-
-<br>
 
 ### Website Content:
 
@@ -470,21 +344,10 @@ peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
 * The wireframes used for design purposes were designed using Balsamiq. https://balsamiq.com/
 * When designing the image gallery a text ovelay was required to appear on hover. Inspiration for this was taken from https://www.w3schools.com/howto/howto_css_image_overlay.asp but was edited it to suit the websites requirements.
 
-<br>
-
 ## **Acknowledgements**
-
-<br>
 
 This website was completed as part of Code Institute's Diploma in Full Stack Software Development program and was completed in February 2022. I wish to thank my mentor Precious Ijege for all the time and effort given to me during the time spent on this project. I also wish to acknowledge the slack community and all those at Code Institute for all their help and support.
 
-<br>
-
 Shane Coen, 2022.
 
-<br>
-
 [Back To Contents](<#contents>)
-
-<br>
-
