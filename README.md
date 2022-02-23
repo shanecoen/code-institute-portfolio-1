@@ -1,7 +1,7 @@
 # Shaco Adventures
 
-Shaco Adventures are a world leader in South American adventure travel. 
-Colombia and Peru are among their specialist destinations where they undertake 
+Shaco Adventures are a specialist in South American adventure travel. 
+Colombia and Peru are among the amazing countries where they undertake 
 regular Treks through premium destinations such as The Inca Trail and The lost 
 City. 
 
@@ -143,6 +143,10 @@ The colour scheme chosen for the website consists of navy (#000080), beige (#f5f
 
 <br>
 
+[Back To Contents](<#contents>)
+
+<br>
+
 ## **Features**
 
 <br>
@@ -264,18 +268,23 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 
 <br>
 
-* In the future I wish to expand on the information provided in the individual country sections (colombia.html and peru.html). I would like to provide much more information
-and images for each individual location in these countries i.e. in peru locations such as Cusco, Arequipa, Huachachina and Lake Titicaca. At present there are photos of some of these locations and an external link for more info but I would like to provide all of this via the Shaco Adventures website.
+* Expand on the information provided in the individual country sections (colombia.html and peru.html). Provide much more information
+and images for each individual location in these countries i.e. in peru locations such as Cusco, Arequipa, Huachachina and Lake Titicaca. 
+At present there are photos of some of these locations and an external link for more info but in the future all of this would be provided via the Shaco Adventures website.
 
-* I would like to add additional Trek options and information such as for The Colca Canyon and Amazon Jungle Treks. Giving these trek options would entice more people to do 
+* Add additional Trek options and information such as for The Colca Canyon and Amazon Jungle Treks. Giving these trek options would entice more people to do 
 business with Shaco Adventures.
 
-* I would like to expand into other countries in South America also such as Argentina, Brazil, Bolivia and Chile.
+* Expand into other countries in South America also such as Argentina, Brazil, Bolivia and Chile.
 
-* I would like to incorporate a shop section into the website where customers could purchase supplies for their upcoming trips and treks.
+* Incorporate a shop section into the website where customers could purchase supplies for their upcoming trips and treks.
 
-* I would like to introduce a blog section where tips would be given for futre trekkers about how to prepare for treks, what they need etc. This blog would be an essential guide
+* Introduce a blog section where tips would be given for futre trekkers about how to prepare for treks, what they need etc. This blog would be an essential guide
 for all website users.
+
+<br>
+
+[Back To Contents](<#contents>)
 
 <br>
 
@@ -283,11 +292,15 @@ for all website users.
 
 <br>
 
+* Balsamiq
 * HTML5
 * CSS3
-* Balsamiq
 * Github
 * Gitpod
+
+<br>
+
+[Back To Contents](<#contents>)
 
 <br>
 
@@ -347,8 +360,9 @@ While testing this website, good use was made of Chrome Dev Tools. One feature t
 
 <br>
 
-1. To be completed
-2. To be completed
+1. When testing the various website pages with the Lighthouse feature on Google Chrome Devtools it was found the video and image files included were slowing the
+website down considerably on loading. As a result all videos and images were compressed and this resulted in much faster loading times. Background videos were
+also hidden in mobile views for this reason.
 
 <br>
 
@@ -357,6 +371,10 @@ While testing this website, good use was made of Chrome Dev Tools. One feature t
 <br>
 
 1. Due to the limitations of the content taught in this section of the Code Institute course my form on contact.html does not work correctly once the submit button is clicked (i.e. the data does not push anywhere). This is an issue that would be resolved once I progress further into the course.
+
+<br>
+
+[Back To Contents](<#contents>)
 
 <br>
 
@@ -422,6 +440,10 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 
 <br>
 
+[Back To Contents](<#contents>)
+
+<br>
+
 ## **Credits**
 
 <br>
@@ -430,7 +452,7 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 
 <br>
 
-* All photos used in this website (including background images) are owned by myself, the developer (Shane Coen). They were all compressed using the website https://www.tinypng.com in order to make their size more suitable for this website.
+* All images used in this website (including background images) are owned by the developer (Shane Coen). They were all compressed using the website https://www.tinypng.com in order to make their size more suitable for this website.
 * The video used in peru.html for the "Inca Trail" section is owned by the developer as are both background videos used in colombia.html and peru.html. All three of these videos were compressed using the website https://www.mp4compress.com/ and the website https://www.zamzar.com/convert/mp4-to-ogg/ was used to convert them to .ogg format. Two formats of these videos were uploaded in order to allow them to work on different browsers i.e. .mp4 and .ogg.
 * The two embedded videos used in the website are from a youtube source, they are are follows;<br>
 colombia.html - https://www.youtube.com/watch?v=xzy4umDtA88 <br>
@@ -444,7 +466,7 @@ peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
 * Font Awesome provided the Icons used in the header logo text and footer section in all four pages. They also provided the social media icons that are used in the footer sections. https://fontawesome.com/
 * The fonts used were provided by Google Fonts. https://fonts.google.com/
 * The wireframes used for design purposes were designed using Balsamiq. https://balsamiq.com/
-* When designing my image gallery I required a text ovelay to appear on hover. I took inspiration for this from https://www.w3schools.com/howto/howto_css_image_overlay.asp but edited it to suit my own requirements.
+* When designing the image gallery a text ovelay was required to appear on hover. Inspiration for this was taken from https://www.w3schools.com/howto/howto_css_image_overlay.asp but was edited it to suit the websites requirements.
 
 <br>
 
@@ -457,6 +479,10 @@ This website was completed as part of Code Institute's Diploma in Full Stack Sof
 <br>
 
 Shane Coen, 2022.
+
+<br>
+
+[Back To Contents](<#contents>)
 
 <br>
 
