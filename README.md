@@ -111,9 +111,11 @@ It was designed using the 5 principles of UX Design (strategy, scope, structure,
 
 <br>
 
-Wireframes were an integral part of the design process for this website. They were used as a visual representation of the initial ideas for the architecture of the site i.e. the navigation, the organisation of all pages and features etc. It was very important to be able to visualise how this website would look and function whether it was in Mobile, Tablet or Desktop view. Balsamiq was used in the production of wireframes for this website and it helped greatly in the development process when the decison had to be made as to what features etc were to be included. Some of the wireframes used can be seen below.
+Wireframes were an integral part of the design process for this website. They were used as a visual representation of the initial ideas for the architecture of the site i.e. the navigation, the organisation of all pages and features etc. It was very important to be able to visualise how this website would look and function whether it was in Mobile, Tablet or Desktop view. Balsamiq was used in the production of wireframes for this website and it helped greatly in the development process when the decison had to be made as to what features etc were to be included. Some of the wireframes used can be seen in the image below, this includes all four pages of website showing wireframe of mobile screen and desktop view side by side for each. (note: wireframe sizes are not to scale).
 
-**Wireframe images to be added**
+<br>
+
+![Image of Balsamiq Wireframes used in designing website](assets/images/readme-wireframe.jpg)
 
 <br>
 
