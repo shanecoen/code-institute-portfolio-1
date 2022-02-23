@@ -36,30 +36,52 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 <br>
 
 ## Contents 
-<hr>
+
 <br>
 
 1. The Design Process
-    * jjjj
-    * jjjj
-    * jjjj
+    * 1.1 - Responsively Designed
+    * 1.2 - Semantic HTML
+    * 1.3 - UX Design
+    * 1.4 - Wireframes
+    * 1.5 - Site Structure
+    * 1.6 - Design Choices
+        * Typography
+        * Colour Scheme
 2. Features
-    * jjjj
-    * jjjj
-    * jjjj
+    * 2.1 - Existing Features
+        * 2.1.1 - Common To All Pages
+            * Navigation Bar
+            * The Landing Page Image
+            * Footer
+        * 2.1.2 - Video And Image Galleries
+        * 2.1.3 - The Contact Form
+    * 2.2 - Future Features
 3. Technologies Used
 4. Testing
+    * 4.1 - Code Validation
+    * 4.2 - Website Responsiveness
+    * 4.3 - Browser Compatability
+    * 4.4 - Additional Testing - Lighthouse
+    * 4.5 - Known Bugs
+        * Resolved Bugs
+        * Unresolved Bugs
 5. Deployment
+    * 5.1 - GitHub Pages
+    * 5.2 - To Fork The Repository On GitHub
+    * 5.3 - Creating A Clone Of Website Files From GitHub
 6. Credits
+    * 6.1 - Media Used
+    * 6.2 - Website Content
 7. Acknowledgements
 
 <br>
 
-## The Design Process
+## 1. The Design Process
 
 <br>
 
-### Responsively Designed:
+### 1.1 - Responsively Designed:
 
 <br>
 
@@ -67,7 +89,7 @@ This website has been designed Mobile First as priority and hugh importance has 
 
 <br>
 
-### Semantic HTML:
+### 1.2 - Semantic HTML:
 
 <br>
 
@@ -75,7 +97,7 @@ Wherever possible Semantic HTML5 elements were used in order to have the HTML co
 
 <br>
 
-### UX Design:
+### 1.3 - UX Design:
 
 <br>
 
@@ -83,7 +105,7 @@ It was designed using the 5 principles of UX Design (strategy, scope, structure,
 
 <br>
 
-### Wireframes:
+### 1.4 - Wireframes:
 
 <br>
 
@@ -93,7 +115,7 @@ Wireframes were an integral part of the design process for this website. They we
 
 <br>
 
-### Site Structure:
+### 1.5 - Site Structure:
 
 <br>
 
@@ -101,7 +123,7 @@ Shaco Adventures consists of four seperate pages i.e. Home page, Colombia, Peru 
 
 <br>
 
-### Design Choices:
+### 1.6 - Design Choices:
 
 <br>
 
@@ -119,7 +141,7 @@ The colour scheme chosen for the website consists of navy (#000080), beige (#f5f
 
 <br>
 
-## Features
+## 2 - Features
 
 <br>
 
@@ -129,11 +151,11 @@ easily and all interactive features such as the gallery and contact form are ver
 
 <br>
 
-### Existing Features:
+### 2.1 - Existing Features:
 
 <br>
 
-#### Common To All Pages:
+#### 2.1.1 Common To All Pages:
 
 <br>
 
@@ -185,7 +207,7 @@ They are bright in colour and when hovered over they change background and font 
 
 <br>
 
-#### Video and Image Galleries:
+#### 2.1.2 - Video and Image Galleries:
 
 <br>
 
@@ -220,7 +242,7 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 
 <br>
 
-#### The Contact Form:
+#### 2.1.3 - The Contact Form:
 
 <br>
 
@@ -236,7 +258,7 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 
 <br>
 
-### Future Features:
+### 2.2 Future Features:
 
 <br>
 
@@ -255,7 +277,7 @@ for all website users.
 
 <br>
 
-## Technologies Used
+## 3 - Technologies Used
 <hr>
 <br>
 
@@ -267,11 +289,11 @@ for all website users.
 
 <br>
 
-## Testing
+## 4 - Testing
 <hr>
 <br>
 
-### Code Validation:
+### 4.1 - Code Validation:
 
 <br>
 
@@ -286,7 +308,7 @@ for all website users.
 
 <br>
 
-### Website Responsiveness:
+### 4.2 - Website Responsiveness:
 
 <br>
 
@@ -294,7 +316,7 @@ This website has been tested at every single stage to ensure that is responded c
 
 <br>
 
-### Browser Compatability:
+### 4.3 - Browser Compatability:
 
 <br>
 
@@ -303,7 +325,7 @@ Note: Safari was not available to me during this browser compatability testing.
 
 <br>
 
-### Additional Testing - Lightouse:
+### 4.4 - Additional Testing - Lightouse:
 
 <br>
 
@@ -315,7 +337,7 @@ While testing this website, good use was made of Chrome Dev Tools. One feature t
 
 <br>
 
-### Known Bugs:
+### 4.5 - Known Bugs:
 
 <br>
 
@@ -336,11 +358,11 @@ While testing this website, good use was made of Chrome Dev Tools. One feature t
 
 <br>
 
-## Deployment
+## 5 - Deployment
 
 <br>
 
-### GitHub Pages:
+### 5.1 - GitHub Pages:
 
 <br>
 
@@ -369,7 +391,7 @@ be seen in the image below.
 
 <br>
 
-### To Fork The Repository On GitHub:
+### 5.2 - To Fork The Repository On GitHub:
 
 <br>
 
@@ -383,7 +405,7 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 
 <br>
 
-### Creating A Local Clone of Website Files From GitHub:
+### 5.3 - Creating A Local Clone of Website Files From GitHub:
 
 <br>
 
@@ -398,11 +420,11 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 
 <br>
 
-## Credits
+## 6 - Credits
 
 <br>
 
-### Media Used:
+### 6.1 - Media Used:
 
 <br>
 
@@ -414,7 +436,7 @@ peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
 
 <br>
 
-### Website Content:
+### 6.2 - Website Content:
 
 * All text content used in this website is owned by the developer.
 * Font Awesome provided the Icons used in the header logo text and footer section in all four pages. They also provided the social media icons that are used in the footer sections. https://fontawesome.com/
@@ -424,7 +446,7 @@ peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
 
 <br>
 
-## Acknowledgements
+## 7 - Acknowledgements
 <hr>
 <br>
 
