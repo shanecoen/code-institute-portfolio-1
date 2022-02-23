@@ -27,7 +27,7 @@ mobile, tablet or desktop.
 
 <br>
 
-![Image of website in various screen sizes](assets/images/readme-responsive.png)
+![Image of website in various screen sizes](assets/images/readme-responsive.jpg)
 
 <br>
 
