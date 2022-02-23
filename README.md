@@ -39,14 +39,14 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 <hr>
 <br>
 
-1. UX Design
-* jjjj
-* jjjj
-* jjjj
+1. The Design Process
+    * jjjj
+    * jjjj
+    * jjjj
 2. Features
-* jjjj
-* jjjj
-* jjjj
+    * jjjj
+    * jjjj
+    * jjjj
 3. Technologies Used
 4. Testing
 5. Deployment
@@ -55,12 +55,70 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 
 <br>
 
-## UX Design
-<hr>
+## The Design Process
+
+<br>
+
+### Responsively Designed:
+
+<br>
+
+This website has been designed Mobile First as priority and hugh importance has been put into this area to ensure that is functions responsively on all devices be it mobile, tablet and desktop screen sizes.
+
+<br>
+
+### Semantic HTML:
+
+<br>
+
+Wherever possible Semantic HTML5 elements were used in order to have the HTML code structured corrently and to enure that the cose was accessible to all users.
+
+<br>
+
+### UX Design:
+
+<br>
+
+It was designed using the 5 principles of UX Design (strategy, scope, structure, skeleton and surface) in order to develop a website that fully met the user's needs.
+
+<br>
+
+### Wireframes:
+
+<br>
+
+Wireframes were an integral part of the design process for this website. They were used as a visual representation of the initial ideas for the architecture of the site i.e. the navigation, the organisation of all pages and features etc. It was very important to be able to visualise how this website would look and function whether it was in Mobile, Tablet or Desktop view. Balsamiq was used in the production of wireframes for this website and it helped greatly in the development process when the decison had to be made as to what features etc were to be included. Some of the wireframes used can be seen below.
+
+<br>
+
+### Site Structure:
+
+<br>
+
+Shaco Adventures consists of four seperate pages i.e. Home page, Colombia, Peru and Contact page. The home page is the default landing page and all other pages are easily navigatable from here via links on the navigation bar and large call to action buttons located futher down the page. The navigation bar and buttons are present on all four pages so navigation from one page to another is always accessible.
+
+<br>
+
+### Design Choices:
+
+<br>
+
+* Typography
+
+<br>
+
+The fonts chosen for this website were "Work Sans" for the headings and "Lato" for the body text. Both fonts had a fallback option of "Sans-Serif". These fonts were chosen as they work well together and are both easy to read for the user. Google Fonts was used to aquire these fonts.
+
+* Colour Scheme
+
+<br>
+
+The colour scheme chosen for the website consists of navy (#000080), beige (#f5f5dc) and silver (#6c757d). These were chosen as they have a good contrast with one another and make viewing and interacting very accessible for the user.
+
 <br>
 
 ## Features
-<hr>
+
 <br>
 
 Shaco Adventures was responsively designed with the user in mind in that it is a very
