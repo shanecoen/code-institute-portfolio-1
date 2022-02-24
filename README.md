@@ -249,11 +249,11 @@ for all website users.
 
 ## **Technologies Used**
 
-* Balsamiq 
-* HTML5
-* CSS3
-* Github
-* Gitpod
+* [Balsamiq](https://balsamiq.com/)  - Used in the design process for the production of wireframes.
+* [HTML5](https://html.spec.whatwg.org/) - Used to provide the website's structure.
+* [CSS3](https://www.w3.org/) - Used to provide the website's styling.
+* [Github](https://github.com/) - This was used to host and deploy the website.
+* [Gitpod](https://www.gitpod.io/) - Provided the developement environment for the website.
 
 <br>
 
@@ -265,9 +265,9 @@ for all website users.
 
 ### Code Validation:
 
-* The code from this website has been validated using https://validator.w3.org/ to ensure that it complies with the standards set by the W3 Consortium.
+* The code from this website has been validated using the [W3C HTML Validator](https://validator.w3.org/) to ensure that it complies with the standards set by the W3 Consortium.
 * All four pages (index.html, colombia.html, peru.html and contact.html) have been tested and all have come back 100% clear of errors and warnings.
-* The CSS code has been validated using https://jigsaw.w3.org/css-validator/#validate_by_uri to ensure that its complies with all relevant standards and it has come back 100% clear of all errors and warnings.
+* The CSS code has been validated using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to ensure that its complies with all relevant standards and it has come back 100% clear of all errors and warnings.
 * The Images below show the HTML validation results (top) and CSS validation results (bottom).
 
 <br>
@@ -287,7 +287,7 @@ Note: Safari was not available to the developer during this browser compatabilit
 
 ### Additional Testing - Lighthouse:
 
-While testing this website, good use was made of Chrome Dev Tools. One feature that was used extensivelly was "Lighthouse". This is a tool that is used to identify and fix common problems that can affect the sites performace, accessibility and user experience. It can generate a report (on both mobile and desktop devices) and give a score out of 100 on website perfromace (site loading performace), Accessibility, Best practices (does it conform to industry best practices) and SEO (is the site optimised for search engine result rankings). This was a very useful tool that helped to identify and resolve any bugs present from an early stage. The below image shows some of this websites current lighthouse scores with the left side showing colombia.html on a mobile device and the right side showing peru.html on a desktop screen.
+While testing this website, good use was made of Chrome Dev Tools. One feature that was used extensivelly was [Lighthouse](https://developers.google.com/web/tools/lighthouse). This is a tool that is used to identify and fix common problems that can affect the sites performace, accessibility and user experience. It can generate a report (on both mobile and desktop devices) and give a score out of 100 on website perfromace (site loading performace), Accessibility, Best practices (does it conform to industry best practices) and SEO (is the site optimised for search engine result rankings). This was a very useful tool that helped to identify and resolve any bugs present from an early stage. The below image shows some of this websites current lighthouse scores with the left side showing colombia.html on a mobile device and the right side showing peru.html on a desktop screen.
 
 <br>
 
@@ -322,7 +322,7 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 
 In order to deploy this website a number of steps had to be undertaken;
 
-1. Naviagte to https://www.github.com
+1. Naviagte to [GitHub](https://www.github.com)
 2. Login into your Github account with your username and password
 3. Navigate to the "your repositories" section
 4. Select the project to be deployed
@@ -369,19 +369,18 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 
 ### Media Used:
 
-* All images used in this website (including background images) are owned by the developer (Shane Coen). They were all compressed using the website https://www.tinypng.com in order to make their size more suitable for this website.
-* The video used in peru.html for the "Inca Trail" section is owned by the developer as are both background videos used in colombia.html and peru.html. All three of these videos were compressed using the website https://www.mp4compress.com/ and the website https://www.zamzar.com/convert/mp4-to-ogg/ was used to convert them to .ogg format. Two formats of these videos were uploaded in order to allow them to work on different browsers i.e. .mp4 and .ogg.
-* The two embedded videos used in the website are from a youtube source, they are are follows;<br>
-colombia.html - https://www.youtube.com/watch?v=xzy4umDtA88 <br>
-peru.html - https://www.youtube.com/watch?v=BHuledXYjKw
+* All images used in this website (including background images) are owned by the developer (Shane Coen). They were all compressed using the website [tinyping.com](https://www.tinypng.com) in order to make their size more suitable for this website.
+* The video used in peru.html for the "Inca Trail" section is owned by the developer as are both background videos used in colombia.html and peru.html. All three of these videos were compressed using the website [MP4compress.com](https://www.mp4compress.com/) and the website [Zamzar.com](https://www.zamzar.com/convert/mp4-to-ogg/) was used to convert them to .ogg format. Two formats of these videos were uploaded in order to allow them to work on different browsers i.e. .mp4 and .ogg.
+* The two embedded videos used in the website are from a youtube source, they are are follows; [Colombia tourism video](https://www.youtube.com/watch?v=xzy4umDtA88) and
+[Peru tourism video](https://www.youtube.com/watch?v=BHuledXYjKw)
 
 ### Website Content:
 
 * All text content used in this website is owned by the developer.
-* Font Awesome provided the Icons used in the header logo text and footer section in all four pages. They also provided the social media icons that are used in the footer sections. https://fontawesome.com/
-* The fonts used were provided by Google Fonts. https://fonts.google.com/
-* The wireframes used for design purposes were designed using Balsamiq. https://balsamiq.com/
-* When designing the image gallery a text ovelay was required to appear on hover. Inspiration for this was taken from https://www.w3schools.com/howto/howto_css_image_overlay.asp but was edited to suit the websites requirements.
+* [Font Awesome](https://fontawesome.com/) provided the Icons used in the header logo text and footer section in all four pages. They also provided the social media icons that are used in the footer sections. 
+* The fonts used were provided by [Google Fonts](https://fonts.google.com/). 
+* The wireframes used for design purposes were designed using [Balsamiq](https://balsamiq.com/). 
+* When designing the image gallery a text ovelay was required to appear on hover. Inspiration for this was taken from [W3 Schools](https://www.w3schools.com/howto/howto_css_image_overlay.asp) but was edited to suit the websites requirements.
 
 ## **Acknowledgements**
 
