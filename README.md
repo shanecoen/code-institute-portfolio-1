@@ -85,15 +85,16 @@ It was designed using the 5 principles of UX Design (strategy, scope, structure,
 
 ### User Stories:
 
-* As a user I want to be able to understand the websites purpose instantly upon loading it.
-* As a user I want to view an aethetically pleasing website.
-* As a user I want to be able to easily navigate throughout the website.
-* As a user I want the opportunaity to discover unique locations and have the opportunity to travel to them.
-* As a user I want to be able to access more information on these locations.
-* As a user I want to be able to access videos and images showcasing Colombian and Peruvian locations.
-* As a user I want to be able to view available treks and adventures.
-* As a user I want to be able to easily contact Shaco Adventures to access more information and organise treks.
-* As a user I want to be able to connect with Shaco Adventures via social media.
+* As an adventurer I want to be able to understand the websites purpose instantly upon loading it.
+* As an adventurer I want to view an aethetically pleasing website.
+* As an adventurer I want to be able to easily navigate throughout the website.
+* As an adventurer I want the opportunaity to discover unique locations.
+* As an adventurer I want to be able to access more information on these locations.
+* As an adventurer I want to have the opportunity to travel to these locations.
+* As an adventurer I want to be able to access videos and images showcasing Colombian and Peruvian locations.
+* As an adventurer I want to be able to view available treks/ adventures.
+* As an adventurer I want to be able to easily contact Shaco Adventures to access more information and/ or organise treks.
+* As an adventurer I want to be able to connect with Shaco Adventures via social media.
 
 ### Responsively Designed:
 
@@ -284,30 +285,32 @@ Note: Safari was not available to the developer during this browser compatabilit
 
 ### Testing User Stories:
 
-* As a user I want to be able to understand the websites purpose instantly upon loading it.
-    * On the home page the main header logo "Shaco Adventures" and the first line of it's introduction "Adventure Travel Specialist"
+* As an adventurer I want to be able to **understand** the websites **purpose instantly** upon loading it.
+    * On the home page the main **header logo** "Shaco Adventures" and the first line of it's **introduction paragraph** "Adventure Travel Specialist"
     instantly convey the purpose of the site.
-* As a user I want to view an aethetically pleasing website.
-    * The use of big header images showcasing unique locations combined with the use of big welcoming text, colours and images will
-    allow the users a positive and pleasant experience.
-* As a user I want to be able to easily navigate throughout the website.
-    * A navigation bar is located centrally on the top of all four pages allowing for easy access throughout the site.
-    * Big call to action buttons are located at various sections of the site allwoing for quick access to other sections/ pages.
-    * The Footer logo is another quick link to allow the user to return to the home page.
-* As a user I want the opportunaity to discover unique locations and have the opportunity to travel to them.
-    * The Colombia and Peru pages allow the user to discover new and unique locations and they can contact Shaco Adventures to discuss travel plans.
-* As a user I want to be able to access videos and images showcasing Colombian and Peruvian locations.
-    * Big colourul images and videos are located through out site.
-    * The Colombia and Peru pages showcase their indiviual locations via the use of imagwe galleries and embedded videos which highlight must see locations.
-* As a user I want to be able to access more information on these locations.
-    * More information for a location by clicking on an image in galleries. This will bring them to an external location with everything they need to know.
-* As a user I want to be able to view available treks and adventures.
-    * Available treks are showcased in the Colombia and Peru pages.
-* As a user I want to be able to easily contact Shaco Adventures to access more information and organise treks.
-    * The user can easily contact Shaco Adventures via the use of the contact form. From here they can request information
+* As an adventurer I want to view an aethetically pleasing website.
+    * The use of **big header images** showcasing unique locations combined with the use of **big welcoming text, colours and images** will
+    allow for a positive and pleasant experience.
+* As an adventurer I want to be able to **easily navigate** throughout the website.
+    * A **navigation bar** is located centrally on the top of all four pages allowing for easy access throughout the site.
+    * **Big call to action buttons** are located at various sections of the site allowing for quick access to other sections/ pages.
+    * The **Footer logo** is another quick link to allow for easy return to the home page.
+* As an adventurer I want the opportunity to **discover unique locations**.
+    * The **Colombia and Peru pages** allow the adventurer to discover amazing new locations.
+* As an adventurer I want to be able to access more information on these locations.
+    * **Large photo galleries** are available where more information is available via the click of a mouse (the information will be provided at an external location).
+* As an adventurer I want to have the **opportunity to travel** to these locations.
+    * The adventurer can **contact** Shaco Adventures to **discuss** travel plans.
+* As an adventurer I want to be able to **access videos and images** showcasing Colombian and Peruvian locations.
+    * **Big colourul images and videos** are located throughout the site.
+    * The Colombia and Peru pages showcase their indiviual locations via the use of **image galleries** and **embedded videos** which highlight must see locations.
+* As an adventurer I want to be able to **view available treks and adventures**.
+    * Available treks are **showcased** in the **Colombia and Peru pages**.
+* As an adventurer I want to be able to **easily contact** Shaco Adventures to access more information and organise treks.
+    * The adventurer can easily contact Shaco Adventures via the use of the **contact form**. From here they can request information
     on various locations and indicate their desire to take part in an up-coming trek.
-* As a user I want to be able to connect with Shaco Adventures via social media.
-    * Social media icons are located in the footer section of each page to allow for the quick access to the companies Facebook,
+* As an adventurer I want to be able to **connect** with Shaco Adventures via **social media**.
+    * **Social media icons** are located in the footer section of each page to allow for the quick access to the companies Facebook,
     Twitter, Instagram and YouTube accounts.
 
 ### Additional Testing - Lighthouse:
