@@ -74,6 +74,7 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 * [**Credits**](<#credits>)
     * [Media Used](<#media-used>)
     * [Website Content](<#website-content>)
+    * [Code](<#code>)
 * [**Acknowledgements**](<#acknowledgements>)
 
 ## **The Design Process**
@@ -305,7 +306,7 @@ also hidden in mobile views for this reason.
 
 * Unresolved Bugs
 
-1. Due to the limitations of the content taught in this section of the Code Institute course the form on contact.html does not work correctly once the submit button is clicked (i.e. the data does not push anywhere). This is an issue that would be resolved upon further progression into the course.
+1. The form on contact.html is not fully functional. Due to the limitations of the content taught in this section of the Code Institute course the form does not function correctly once the submit button is clicked (i.e. the data does not push anywhere). This is an issue that would be resolved upon further progression into the course.
 
 <br>
 
@@ -379,7 +380,10 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 * All text content used in this website is owned by the developer.
 * [Font Awesome](https://fontawesome.com/) provided the Icons used in the header logo text and footer section in all four pages. They also provided the social media icons that are used in the footer sections. 
 * The fonts used were provided by [Google Fonts](https://fonts.google.com/). 
-* The wireframes used for design purposes were designed using [Balsamiq](https://balsamiq.com/). 
+* The wireframes used for design purposes were designed using [Balsamiq](https://balsamiq.com/).
+
+### Code:
+
 * When designing the image gallery a text ovelay was required to appear on hover. Inspiration for this was taken from [W3 Schools](https://www.w3schools.com/howto/howto_css_image_overlay.asp) but was edited to suit the websites requirements.
 
 ## **Acknowledgements**
