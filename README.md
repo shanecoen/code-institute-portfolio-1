@@ -266,9 +266,9 @@ for all website users.
 ### Code Validation:
 
 * The code from this website has been validated using the [W3C HTML Validator](https://validator.w3.org/) to ensure that it complies with the standards set by the W3 Consortium.
-* All four pages (index.html, colombia.html, peru.html and contact.html) have been tested and all have come back 100% clear of errors. There was some warnings on the code regarding "section - headings" on the code validated from colombia.html and peru.html (see image on top-right below).
+* All four pages (index.html, colombia.html, peru.html and contact.html) have been tested and all have come back 100% clear of errors. There was some warnings on the code regarding "section - headings" on the code validated from colombia.html and peru.html.
 * The CSS code has been validated using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to ensure that its complies with all relevant standards and it has come back 100% clear of all errors and warnings.
-* The Images below show the HTML validation results (top) and CSS validation results (bottom).
+* The Images below show the HTML validation results (top left - no errors on all four pages. Top right - warning on colombia.html and peru.html) and CSS validation results (bottom).
 
 <br>
 
@@ -288,27 +288,36 @@ Note: Safari was not available to the developer during this browser compatabilit
 * As an adventurer I want to be able to **understand** the websites **purpose instantly** upon loading it.
     * On the home page the main **header logo** "Shaco Adventures" and the first line of it's **introduction paragraph** "Adventure Travel Specialist"
     instantly convey the purpose of the site.
+
 * As an adventurer I want to view an aethetically pleasing website.
     * The use of **big header images** showcasing unique locations combined with the use of **big welcoming text, colours and images** will
     allow for a positive and pleasant experience.
+
 * As an adventurer I want to be able to **easily navigate** throughout the website.
     * A **navigation bar** is located centrally on the top of all four pages allowing for easy access throughout the site.
     * **Big call to action buttons** are located at various sections of the site allowing for quick access to other sections/ pages.
     * The **Footer logo** is another quick link to allow for easy return to the home page.
+
 * As an adventurer I want the opportunity to **discover unique locations**.
     * The **Colombia and Peru pages** allow the adventurer to discover amazing new locations.
+
 * As an adventurer I want to be able to access more information on these locations.
     * **Large photo galleries** are available where more information is available via the click of a mouse (the information will be provided at an external location).
+
 * As an adventurer I want to have the **opportunity to travel** to these locations.
     * The adventurer can **contact** Shaco Adventures to **discuss** travel plans.
+
 * As an adventurer I want to be able to **access videos and images** showcasing Colombian and Peruvian locations.
     * **Big colourul images and videos** are located throughout the site.
     * The Colombia and Peru pages showcase their indiviual locations via the use of **image galleries** and **embedded videos** which highlight must see locations.
+
 * As an adventurer I want to be able to **view available treks and adventures**.
     * Available treks are **showcased** in the **Colombia and Peru pages**.
+
 * As an adventurer I want to be able to **easily contact** Shaco Adventures to access more information and organise treks.
     * The adventurer can easily contact Shaco Adventures via the use of the **contact form**. From here they can request information
     on various locations and indicate their desire to take part in an up-coming trek.
+
 * As an adventurer I want to be able to **connect** with Shaco Adventures via **social media**.
     * **Social media icons** are located in the footer section of each page to allow for the quick access to the companies Facebook,
     Twitter, Instagram and YouTube accounts.
