@@ -267,7 +267,7 @@ for all website users.
 ### Code Validation:
 
 * The code from this website has been validated using the [W3C HTML Validator](https://validator.w3.org/) to ensure that it complies with the standards set by the W3 Consortium.
-* All four pages (index.html, colombia.html, peru.html and contact.html) have been tested and all have come back 100% clear of errors.
+* All four pages (index.html, colombia.html, peru.html and contact.html) have been tested and all have come back 100% clear of errors. There was some warnings on the code regarding "section - headings" on the code validated from colombia.html and peru.html (see image on top-right below).
 * The CSS code has been validated using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to ensure that its complies with all relevant standards and it has come back 100% clear of all errors and warnings.
 * The Images below show the HTML validation results (top) and CSS validation results (bottom).
 
