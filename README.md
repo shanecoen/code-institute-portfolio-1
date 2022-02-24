@@ -37,9 +37,10 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 ## Contents
 
 * [**The Design Process**](<#the-design-process>)
+    * [UX Design](<#ux-design>)
+    * [User Stories](<#user-stories>)
     * [Responsively Designed](<#responsively-designed>)
     * [Semantic HTML](<#semantic-html>)
-    * [UX Design](<#ux-design>)
     * [Wireframes](<#wireframes>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
@@ -77,6 +78,22 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
 
 ## **The Design Process**
 
+### UX Design:
+
+It was designed using the 5 principles of UX Design (strategy, scope, structure, skeleton and surface) in order to develop a website that fully meets the user's needs.
+
+### User Stories:
+
+* As a user I want to be able to understand the websites purpose instantly upon loading it.
+* As a user I want to view an aethetically pleasing website.
+* As a user I want to be able to easily navigate throughout the website.
+* As a user I want the opportunaity to discover unique locations and have the opportunity to travel to them.
+* As a user I want to be able to access more information on these locations.
+* As a user I want to be able to access videos and images showcasing Colombian and Peruvian locations.
+* As a user I want to be able to view available treks and adventures.
+* As a user I want to be able to easily contact Shaco Adventures to access more information and organise treks.
+* As a user I want to be able to connect with Shaco Adventures via social media.
+
 ### Responsively Designed:
 
 This website has been designed Mobile First as priority and huge importance has been put into this area to ensure that it functions responsively on all devices be it mobile, tablet and desktop screen sizes.
@@ -84,10 +101,6 @@ This website has been designed Mobile First as priority and huge importance has 
 ### Semantic HTML:
 
 Wherever possible Semantic HTML5 elements were used in order to have the HTML code structured corrently and to enure that the code is accessible to all users.
-
-### UX Design:
-
-It was designed using the 5 principles of UX Design (strategy, scope, structure, skeleton and surface) in order to develop a website that fully meets the user's needs.
 
 ### Wireframes:
 
