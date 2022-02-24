@@ -131,10 +131,6 @@ header, footer {
     background-color: rgba(245, 245, 220, 0.5);
 }
 
-.hide {
-    display: none;
-}
-
 .text-center {
     text-align: center;
 }
@@ -394,6 +390,10 @@ main {
     transition: .5s ease;
     backface-visibility: hidden;
 }
+
+/* The Below .gallery-middle css code was inspired by a source 
+on W3 Schools but was edited to suit this websites requirements, 
+please see readme file credits section */
   
 .gallery-middle {
     width: 90%;
