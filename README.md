@@ -34,8 +34,6 @@ mobile, tablet or desktop.
 This website is hosted by GitHub pages and can be viewed at: <br>
 https://shanecoen.github.io/code-institute-portfolio-1/index.html
 
-<br>
-
 ## Contents
 
 * [**The Design Process**](<#the-design-process>)
@@ -99,8 +97,6 @@ Wireframes were an integral part of the design process for this website. They we
 
 ![Image of Balsamiq Wireframes used in designing website](assets/images/readme-wireframe.jpg)
 
-<br>
-
 ### Site Structure:
 
 Shaco Adventures consists of four seperate pages i.e. Home page, Colombia, Peru and Contact page. The home page is the default landing page and all other pages are easily accessible from here via links on the navigation bar and large call to action buttons located futher down the page. The navigation bar and buttons are present on all four pages so navigation from one page to another is always accessible.
@@ -118,8 +114,6 @@ The colour scheme chosen for the website consists of navy (#000080), beige (#f5f
 <br>
 
 [Back To Contents](<#contents>)
-
-<br>
 
 ## **Features**
 
@@ -177,8 +171,6 @@ They are bright in colour and when hovered over they change background and font 
 
 ![Image of Call To Action Button from website](assets/images/readme-button.jpg)
 
-<br>
-
 #### Video And Images:
 
 * Videos
@@ -210,8 +202,6 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 
 ![Image of Call To Action Button from website](assets/images/readme-gallery.jpg)
 
-<br>
-
 #### The Contact Form:
 
 This can be found on the contact.html page and there are also quick links located to this on colombia.html and peru.html. This form is used to allow the user to contact 
@@ -223,8 +213,6 @@ screen sizes. (Left = Desktop screen, center = tablet and right = mobile).
 <br>
 
 ![Image of Call To Action Button from website](assets/images/readme-contact-form.jpg)
-
-<br>
 
 ### Future Features:
 
@@ -246,8 +234,6 @@ for all website users.
 
 [Back To Contents](<#contents>)
 
-<br>
-
 ## **Technologies Used**
 
 * [Balsamiq](https://balsamiq.com/)  - Used in the design process for the production of wireframes.
@@ -259,8 +245,6 @@ for all website users.
 <br>
 
 [Back To Contents](<#contents>)
-
-<br>
 
 ## **Testing**
 
@@ -274,8 +258,6 @@ for all website users.
 <br>
 
 ![Image of HTML Validation result](assets/images/readme-html-validation.jpg)
-
-<br>
 
 ### Website Responsiveness:
 
@@ -294,8 +276,6 @@ While testing this website, good use was made of Chrome Dev Tools. One feature t
 
 ![Image of HTML Validation result](assets/images/readme-lighthouse.jpg)
 
-<br>
-
 ### Known Bugs:
 
 * Resolved Bugs
@@ -311,8 +291,6 @@ also hidden in mobile views for this reason.
 <br>
 
 [Back To Contents](<#contents>)
-
-<br>
 
 ## **Deployment**
 
@@ -363,8 +341,6 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 <br>
 
 [Back To Contents](<#contents>)
-
-<br>
 
 ## **Credits**
 
