@@ -75,7 +75,7 @@ a {
 
 #logo {    
     color: rgb(245, 245, 220);
-    font-size: 150%;    
+    font-size: 125%;    
     margin-top: 12rem;
     line-height: 1.1;
     text-shadow: 5px 5px 6px rgb(0, 0, 128);       
@@ -88,7 +88,7 @@ a {
 }
 
 #nav-style {
-    font-size: 45%;
+    font-size: 40%;
     letter-spacing: 1.5px; 
     font-weight: 600;
     line-height: 75px;
@@ -549,6 +549,10 @@ footer a {
     transform: scale(1.2);
 }
 
+footer .icon-hide {
+    display: none;
+}
+
 /* Form Style */
 
 #contact-image-background {
@@ -610,6 +614,23 @@ form label {
     margin-left: 0.05rem;
     margin-top: 1rem;
     background-color: transparent;
+}
+
+
+/* Media Queries min-width: 350px */
+
+@media only screen and (min-width: 350px) { 
+    #nav-style {
+        font-size: 45%;   
+    }
+
+    #logo {
+        font-size: 150%;
+    }
+
+    footer .icon-hide {
+        display: inline-block;
+    }
 }
 
 /* Media Queries min-width: 400px */
