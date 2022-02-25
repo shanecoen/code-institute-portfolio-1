@@ -2,7 +2,7 @@
 
 Shaco Adventures are a specialist in South American adventure travel. 
 Colombia and Peru are among the amazing countries where they undertake 
-regular Treks through premium destinations such as The Inca Trail and The lost 
+regular Treks in premium destinations such as The Inca Trail and The lost 
 City. 
 
 This website has been created to help puplicise Shaco Adventures further and to help
@@ -12,14 +12,14 @@ holiday and also those who would just like to discover these destinations at the
 
 Some of its key features include:
 
-* Users can easily access information on both Colombia and Peru,
-* Users can view photo galleries of available destinations,
+* Adventurers can easily access information on both Colombia and Peru,
+* Adventurers can view photo galleries of available destinations,
 * More information on these destinations is available via the clickable links,
-* Users can view videos showcasing the available treks,
-* Users can easily contact Shaco Adventures via the contact form to declare their interest
+* Adventurers can view videos showcasing the available treks,
+* Adventurers can easily contact Shaco Adventures via the contact form to declare their interest
 in up-coming treks and also seek information on other amazing destinations,
 * Access to official Shaco Adventures social media is easily accessible via social links
-where users can get even more information,
+where adventurers can get even more information,
 * The website is responsive and can be easily accessed and viewed on any device i.e. 
 mobile, tablet or desktop.
 
@@ -63,7 +63,7 @@ https://shanecoen.github.io/code-institute-portfolio-1/index.html
     * [Website Responsiveness](<#website-responsiveness>)
     * [Browser Compatability](<#browser-compatability>)
     * [Testing User Stories](<#testing-user-stories>)
-    * [Additional Testing - Lighthouse](<#additional-testing---lightouse>)
+    * [Lighthouse Testing](<#lighthouse-testing>)
     * [Known Bugs](<#known-bugs>)
         * Resolved Bugs
         * Unresolved Bugs
@@ -102,7 +102,7 @@ This website has been designed Mobile First as priority and huge importance has 
 
 ### Semantic HTML:
 
-Wherever possible Semantic HTML5 elements were used in order to have the HTML code structured corrently and to enure that the code is accessible to all users.
+Wherever possible Semantic HTML5 elements were used in order to have the HTML code structured correctly and to enure that the code is accessible to all users.
 
 ### Wireframes:
 
@@ -114,7 +114,7 @@ Wireframes were an integral part of the design process for this website. They we
 
 ### Site Structure:
 
-Shaco Adventures consists of four seperate pages i.e. Home page, Colombia, Peru and Contact page. The home page is the default landing page and all other pages are easily accessible from here via links on the navigation bar and large call to action buttons located futher down the page. The navigation bar and buttons are present on all four pages so navigation from one page to another is always accessible.
+Shaco Adventures consists of four seperate pages i.e. Home page, Colombia, Peru and Contact page. The home page is the default landing page and all other pages are easily accessible from here via links on the navigation bar and large call to action buttons located further down the page. The navigation bar and buttons are present on all four pages so navigation from one page to another is always accessible.
 
 ### Design Choices:
 
@@ -133,7 +133,7 @@ The colour scheme chosen for the website consists of navy (#000080), beige (#f5f
 ## **Features**
 
 Shaco Adventures was responsively designed with the user in mind in that it is a very
-welcoming and easy to use website. Users will instantly be able to naigate throughtout the site
+welcoming and easy to use website. Users will instantly be able to naigate throughout the site
 easily and all interactive features such as the gallery and contact form are very user friendly. 
 
 ### Existing Features:
@@ -142,7 +142,7 @@ easily and all interactive features such as the gallery and contact form are ver
 
 * Navigation Bar
 
-The Navigation Bar in this website in used in all 4 pages and is placed centrally at the top of the header image.
+The Navigation Bar in this website is used in all 4 pages and is placed centrally at the top of the header image.
 It allows for the user to easily navigate throughout the site and it is fully responsive and responds to all screen sizes.
 The page that the user is currently on will be highlighted by a navy coloured underline. The Image below shows the Navigation bar in desktop screen size. 
 
@@ -166,7 +166,7 @@ visit Colombia or Peru with Shaco Adventures. They include a large text indicati
 * Footer
 
 The footer design is common to all pages. It give quick access to all Shaco Adventures social media pages i.e. Facebook, Twitter, Instagram and Youtube. 
-These are inclued to enhance the users experience and allow them to interact with the company further. All links will open in a new tab.
+These are included to enhance the users experience and allow them to interact with the company further. All links will open in a new tab.
 It also includes the company logo which when clicked on will always bring the user back to the Home page. The below image show the footer in desktop mode and when it reponds
 to a mobile screen size the logo will appear on top of the social media icons.
 
@@ -180,7 +180,7 @@ to a mobile screen size the logo will appear on top of the social media icons.
 
 These Call To Action Buttons can be found throughout this website. They are large in size and easily recognisible to the user that they are to be clicked and
 are used to easily navigate between different sections of the website. They are a quick way for the user to easily go to the website section they desire.
-They are bright in colour and when hovered over they change background and font colour and/ or enlarge slightly.
+They are bright in colour and when hovered over they change background/ font colour and/ or enlarge slightly.
 
 <br>
 
@@ -190,7 +190,7 @@ They are bright in colour and when hovered over they change background and font 
 
 * Videos
 
-There is a large embedded video included in both Colombia.html and peru.html. These tourism videos are embedded from youtube are are used to highlight the most popular
+There is a large embedded video included in both Colombia.html and peru.html. These tourism videos are embedded from youtube and are used to highlight the most popular
 travel locations in both countries. These videos are invaluable as they allow the user to see exactly what the various locations are like and they can then contact Shaco
 Adventures to organise their own travel arrangements. There is also a video included in the Peru Inca Trail Trek section which shows more adventures that await the user.
 All of these videos are controlled by the user via the controls provided (start, stop etc) and sound is optional. There are background videos included also in both of 
@@ -242,7 +242,7 @@ business with Shaco Adventures.
 
 * Incorporate a shop section into the website where customers could purchase supplies for their upcoming trips and treks.
 
-* Introduce a blog section where tips would be given for futre trekkers about how to prepare for treks, what they need etc. This blog would be an essential guide
+* Introduce a blog section where tips would be given for future trekkers about how to prepare for treks, what they need etc. This blog would be an essential guide
 for all website users.
 
 <br>
@@ -276,7 +276,7 @@ for all website users.
 
 ### Website Responsiveness:
 
-This website has been tested at every single stage to ensure that is responded correctly to every device type and size i.e. desktop, tablet and mobile. Some of the device types used for testing included; lenovo IdeaPad 100 Laptop, Samsung Galaxy 7 inch tablet, Amazon Fire 6 inch tablet, Apple iPad 9.7 inch and a number of mobile phone brands such as Apple iPhone, Samsung and Huawei. Google Chrome DevTools and Firefox's responsive design mode were used etensivelly in these tests. Media queries were used in this websites design where required to ensure that every aspect responded as desired with regard to image rendering, layout, positioning etc. All responsiveness testing passed successfully.
+This website has been tested at every single stage to ensure that is responded correctly to every device type and size i.e. desktop, tablet and mobile. Some of the device types used for testing included; lenovo IdeaPad 100 Laptop, Samsung Galaxy 7 inch tablet, Amazon Fire 6 inch tablet, Apple iPad 9.7 inch and a number of mobile phone brands such as Apple iPhone, Samsung and Huawei. Google Chrome DevTools and Firefox's responsive design mode were used extensivelly in these tests. Media queries were used in this websites design where required to ensure that every aspect responded as desired with regard to image rendering, layout, positioning etc. All responsiveness testing passed successfully.
 
 ### Browser Compatability:
 
@@ -301,8 +301,8 @@ Note: Safari was not available to the developer during this browser compatabilit
 * As an adventurer I want the opportunity to **discover unique locations**.
     * The **Colombia and Peru pages** allow the adventurer to discover amazing new locations.
 
-* As an adventurer I want to be able to access more information on these locations.
-    * **Large photo galleries** are available where more information is available via the click of a mouse (the information will be provided at an external location).
+* As an adventurer I want to be able to **access more information** on these locations.
+    * **Large photo galleries** are available where more information is available via the **click of a mouse** (the information will be provided at an external location).
 
 * As an adventurer I want to have the **opportunity to travel** to these locations.
     * The adventurer can **contact** Shaco Adventures to **discuss** travel plans.
@@ -322,9 +322,9 @@ Note: Safari was not available to the developer during this browser compatabilit
     * **Social media icons** are located in the footer section of each page to allow for the quick access to the companies Facebook,
     Twitter, Instagram and YouTube accounts.
 
-### Additional Testing - Lighthouse:
+### Lighthouse Testing:
 
-While testing this website, good use was made of Chrome Dev Tools. One feature that was used extensivelly was [Lighthouse](https://developers.google.com/web/tools/lighthouse). This is a tool that is used to identify and fix common problems that can affect the sites performace, accessibility and user experience. It can generate a report (on both mobile and desktop devices) and give a score out of 100 on website perfromace (site loading performace), Accessibility, Best practices (does it conform to industry best practices) and SEO (is the site optimised for search engine result rankings). This was a very useful tool that helped to identify and resolve any bugs present from an early stage. The below image shows some of this websites current lighthouse scores with the left side showing colombia.html on a mobile device and the right side showing peru.html on a desktop screen.
+While testing this website, good use was made of Chrome Dev Tools. One feature that was used extensivelly was [Lighthouse](https://developers.google.com/web/tools/lighthouse). This is a tool that is used to identify and fix common problems that can affect the sites performance, accessibility and user experience. It can generate a report (on both mobile and desktop devices) and give a score out of 100 on website performance (site loading performance), Accessibility, Best practices (does it conform to industry best practices) and SEO (is the site optimised for search engine result rankings). This was a very useful tool that helped to identify and resolve any bugs present from an early stage. The below image shows some of this websites current lighthouse scores with the left side showing colombia.html on a mobile device and the right side showing peru.html on a desktop screen.
 
 <br>
 

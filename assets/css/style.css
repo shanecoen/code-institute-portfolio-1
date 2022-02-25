@@ -13,14 +13,14 @@ html {
 }
 
 body {    
-    font: 600 150%/1.5 'Lato', sans-serif;
+    font: 600 150%/1.5 'Lato', 'sans-serif';
     color: #6c757d;
     letter-spacing: 1.5px;  
     overflow-x:hidden;
 }
 
 h1, h2 {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans', 'sans-serif';
     font-weight: 400;        
     letter-spacing: 4px;  
 }
@@ -399,9 +399,9 @@ main {
     backface-visibility: hidden;
 }
 
-/* The Below .gallery-middle css code was inspired by a source 
-on W3 Schools but was edited to suit this websites requirements, 
-please see ReadMe: Credits section for more details*/
+/* class="gallery-middle" inspiration taken from W3 schools. 
+Gallery text overlay - CSS was edited to suit this websites 
+requirements, please see ReadMe: Credits section for more details */
   
 .gallery-middle {
     width: 90%;
@@ -623,7 +623,6 @@ form label {
     margin-top: 1rem;
     background-color: transparent;
 }
-
 
 /* Media Queries min-width: 350px */
 
@@ -851,7 +850,7 @@ form label {
     }
 
     #logo {
-        margin-top: 13rem;
+        margin-top: 15rem;
         font-size: 350%;
     }
 }
@@ -1021,7 +1020,6 @@ form label {
         padding: 4rem;             
         width: 65%;           
     }
-
 }
 
 /* Media Queries min-width: 1800px */
