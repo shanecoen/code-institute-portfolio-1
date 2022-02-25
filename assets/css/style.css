@@ -58,7 +58,7 @@ a {
 }
 
 #main-header-image {
-    background: url('../images/main-header-image.jpg') center / cover no-repeat;    
+    background: url('../images/main-header-image.jpg') center / cover no-repeat; 
 }
 
 #main-colombia-image {
@@ -73,18 +73,26 @@ a {
     background: url('../images/contact-header.jpg') center / cover no-repeat;   
 }
 
-#logo {    
-    color: rgb(245, 245, 220);
-    font-size: 125%;    
-    margin-top: 13rem;
-    line-height: 1.1;
-    text-shadow: 5px 5px 6px rgb(0, 0, 128);       
-    text-transform: uppercase;      
+#header-background-color {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 128, 0.1);
 }
 
 #logo-container {
     width: 100%;
-    height: auto;    
+    height: auto; 
+}
+
+#logo {   
+    color: rgb(245, 245, 220);
+    font-size: 125%;   
+    margin-top: 12rem;
+    line-height: 1.1;
+    text-shadow: 5px 5px 6px rgb(0, 0, 128);       
+    text-transform: uppercase;
 }
 
 #nav-style {
@@ -652,7 +660,7 @@ form label {
 
     #logo {
         font-size: 275%;
-        margin-top: 16rem;
+        margin-top: 14rem;
     }
 
     #nav-style {
@@ -829,6 +837,11 @@ form label {
 /* Media Queries min-width: 1000px */
 
 @media only screen and (min-width: 1000px) {
+    
+    #header-background-color {
+        background-color: transparent;
+    }
+
     #region-image-gallery {
         column-count: 4;
     }
