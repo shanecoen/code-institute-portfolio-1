@@ -88,7 +88,8 @@ a {
 
 #logo {   
     color: rgb(245, 245, 220);
-    font-size: 125%;   
+    font-size: 125%; 
+    font-weight: 700;  
     margin-top: 11rem;
     line-height: 1.1;
     text-shadow: 5px 5px 6px rgb(0, 0, 128);       
